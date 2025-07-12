@@ -72,7 +72,7 @@ Hence, if our "decipherment" of the U.S. Constitution produces *coherent output 
 Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping from **Latin letters to Sanskrit phonemes**.  Luckily, such a key was revealed by Thomas Jefferson in a dream to Ugraśravas:
 
 <div style="text-align: center;">
-<img src="img/revelation.jpeg" alt="Thomas Jefferson revealing the one-key-to-rule-them-all to Ugraśravas in a dream" width="400">
+<img src="img/revelation.png" alt="Thomas Jefferson revealing the one-key-to-rule-them-all to Ugraśravas in a dream" width="400">
 </div>
 
 <table border="1" cellpadding="6" cellspacing="0">
