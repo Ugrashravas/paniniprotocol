@@ -8,7 +8,7 @@
 Welcome to the official dashboard for the first decipherment of the United States constitution as Pāṇinian Sanskrit!
 
 <div style="text-align: center;">
-<img src="img/paniniprotocol.jpeg" alt="Ugrashravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="400">
+<img src="img/paniniprotocol.jpeg" alt="Ugrashravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="80%">
 </div>
 
 ---
@@ -122,7 +122,7 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 
 ## Translation Summary
 
-The unicity distance is **46** symbols, indicated by the red marker. As of date, **1000+** have been translated, indicated by the green progress bar.
+The unicity distance is **46** symbols, indicated by the red marker. As of date, **1000+** have been translated, indicated by the green progress bar. Note that this graphic is not always upto date; for the live count, see the bottom row in the [translation page](translation.md)
 
 <h3>Progress in first 1500 symbols</h3>
 
