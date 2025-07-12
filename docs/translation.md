@@ -1,4 +1,4 @@
-# 🧠 Translation Table
+# Translation Table
 
 Below is a breakdown of translated English sentences with their Sanskrit equivalents, parsing, and grammar notes.
 

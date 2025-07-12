@@ -63,7 +63,7 @@ Using these, the unicity distance \( U \) is computed as:
   <code>U = (26 + 18 × 0.2 + 1 × 2) / 0.7 ≈ 45.143</code>
 </div>
 
-Hence, if our "decipherment" of the U.S. Constitution produces *coherent output beyond 45 characters*, it meets the same standard that Yajnadevam sets for his own work.
+Hence, if our "decipherment" of the U.S. Constitution produces *coherent output beyond 46 characters*, it meets the same standard that Yajnadevam sets for his own work.
 
 ---
 
@@ -120,12 +120,40 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 
 ---
 
-## 📊 Translation Summary
+## Translation Summary
 
-The unicity distance is **46** symbols. At present, **900** have been translated.
+The unicity distance is **46** symbols, indicated by the red marker. As of date, **1000+** have been translated, indicated by the green progress bar.
 
-<div style="border: 1px solid #ccc; width: 20%; max-width: 600px; border-radius: 4px; height: 24px; background: #eee;">
-  <div style="width: 120%; height: 100%; background: #4caf50; text-align: center; color: white; line-height: 24px;">
-    65% Complete
+<h3>Progress in first 1500 symbols</h3>
+
+<div style="position: relative; width: 100%; max-width: 600px; height: 30px; background: #eee; border-radius: 6px; overflow: hidden; border: 1px solid #ccc;">
+
+  <!-- Green progress bar -->
+  <div style="width: 67%; height: 100%; background: #4caf50;"></div>
+
+  <!-- Unicity Distance marker -->
+  <div style="
+    position: absolute;
+    left: 3%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: red;
+    z-index: 2;">
+  </div>
+
+  <!-- Label for the red marker -->
+  <div style="
+    position: absolute;
+    left: 3%;
+    top: 100%;
+    transform: translateX(-50%);
+    font-size: 0.9rem;
+    color: red;
+    margin-top: 4px;">
+    UD Threshold
   </div>
 </div>
+
+<p style="margin-top: 0.5rem;">Current progress: <strong>67.53%</strong>. Last updated: 2025-Jul-12, 21:38 (GMT +5:30)</p>
+
