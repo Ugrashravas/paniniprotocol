@@ -8,7 +8,7 @@
 Welcome to the official dashboard for the first decipherment of the United States constitution as Pāṇinian Sanskrit!
 
 <div style="text-align: center;">
-<img src="img/paniniprotocol.jpeg" alt="Ugrashravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugrashravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="550">
+<img src="img/paniniprotocol.jpeg" alt="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="550">
 </div>
 
 ---
@@ -126,7 +126,7 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 
 The decipherment and translation of the United States constitution are available [here](translation.md).
 
-Additionally, we have also deciphered many of the *shortest* English words, and even deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the unicity distance. These will be uploaded herein due time.
+Additionally, we have also deciphered many of the *shortest* English words, and even deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the unicity distance. These will be uploaded here in due time.
 
 ---
 
