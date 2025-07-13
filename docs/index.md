@@ -8,7 +8,7 @@
 Welcome to the official dashboard for the first decipherment of the United States constitution as Pāṇinian Sanskrit!
 
 <div style="text-align: center;">
-<img src="img/paniniprotocol.jpeg" alt="Ugrashravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="80%">
+<img src="img/paniniprotocol.jpeg" alt="Ugrashravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugrashravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="550">
 </div>
 
 ---
@@ -23,7 +23,7 @@ The truth is simply that, by torturing Pāṇini’s rules in this way, *anythin
 However, Yajnadevam refused to acknowledge any flaw. In fact, he issued a challenge: if my critique is valid, then I should be able to “decipher” *even the U.S. Constitution* as Sanskrit using his methods.
 
 <div style="text-align: center;">
-<img src="img/challenge.jpeg" alt="YD's Challenge" width="400">
+<img src="img/challenge.jpeg" alt="YD's Challenge" title="YD's challlenge" width="400">
 </div>
 
 ... and, that’s exactly what I’ve done.
@@ -72,7 +72,7 @@ Hence, if our "decipherment" of the U.S. Constitution produces *coherent output 
 Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping from **Latin letters to Sanskrit phonemes**.  Luckily, such a key was revealed by Thomas Jefferson in a dream to Ugraśravas:
 
 <div style="text-align: center;">
-<img src="img/revelation.png" alt="Thomas Jefferson revealing the one-key-to-rule-them-all to Ugraśravas in a dream" width="400">
+<img src="img/revelation.png" alt="Thomas Jefferson revealing the one-key-to-rule-them-all to Ugraśravas in a dream" title="Thomas Jefferson revealing the one-key-to-rule-them-all to Ugraśravas in a dream" width="550">
 </div>
 
 <table border="1" cellpadding="6" cellspacing="0">
@@ -115,26 +115,39 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 
 **NOTE 3:** The scheme used to read the constitution using this table is much stricter and more conservative than Yajnadevam's, as we do not perform aribtrary consonant doubling.
 
+## Brāhmī Map
+
+<div style="text-align: center;">
+<img src="img/brahmimap.png" alt="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" title="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" width="550">
+</div>
+
 ---
 ## [📄 View Translations](translation.md)
 
+The decipherment and translation of the United States constitution are available [here](translation.md).
+
+Additionally, we have also deciphered many of the *shortest* English words, and even deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the unicity distance. These will be uploaded herein due time.
+
 ---
+
 
 ## Translation Summary
 
-The unicity distance is **46** symbols, indicated by the red marker. As of date, **1000+** have been translated, indicated by the green progress bar. Note that this graphic is not always upto date; for the live count, see the bottom row in the [translation page](translation.md)
+Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we don't expect him to simply concede; We anticipate he will start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. For now, the red marker stands alone, but we're not betting it'll stay that way.
 
-<h3>Progress in first 1500 symbols</h3>
+As of date, the unicity distance is **46**, and **268+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
+
+<h3>Progress in first 1000 symbols</h3>
 
 <div style="position: relative; width: 100%; max-width: 600px; height: 30px; background: #eee; border-radius: 6px; overflow: hidden; border: 1px solid #ccc;">
 
   <!-- Green progress bar -->
-  <div style="width: 67%; height: 100%; background: #4caf50;"></div>
+  <div style="width: 27%; height: 100%; background: #4caf50;"></div>
 
   <!-- Unicity Distance marker -->
   <div style="
     position: absolute;
-    left: 3%;
+    left: 5%;
     top: 0;
     bottom: 0;
     width: 2px;
@@ -142,18 +155,7 @@ The unicity distance is **46** symbols, indicated by the red marker. As of date,
     z-index: 2;">
   </div>
 
-  <!-- Label for the red marker -->
-  <div style="
-    position: absolute;
-    left: 3%;
-    top: 100%;
-    transform: translateX(-50%);
-    font-size: 0.9rem;
-    color: red;
-    margin-top: 4px;">
-    UD Threshold
-  </div>
 </div>
 
-<p style="margin-top: 0.5rem;">Current progress: <strong>67.53%</strong>. Last updated: 2025-Jul-12, 21:38 (GMT +5:30)</p>
+<p style="margin-top: 0.5rem;">Current progress: <strong>26.80%</strong>. Last updated: 2025-Jul-13, 11:35 (GMT +5:30)</p>
 
