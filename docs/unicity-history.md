@@ -34,11 +34,11 @@ The primary distinguishing feature of this approach is that it actually consider
 
 So, using our complete ciphertext and our subjectively reduced one due to the allograph table, we end up with two possible unicity distances, again using the same methods as Yajnadevam - namely:
 
-$$\frac{3+\times\log_2{(2^{26})^{52}}}{0.7\log_2{52}} \approx 339.57$$
+$$\frac{3+\log_2{(2^{26})^{52}}}{0.7\log_2{52}} \approx 339.57$$
 
 and
 
-$$\frac{3+\times\log_2{(2^{26})^{81}}}{0.7\log_2{81}} \approx 475.225$$
+$$\frac{3+\log_2{(2^{26})^{81}}}{0.7\log_2{81}} \approx 475.225$$
 
 And sure enough, we crossed these distances as well.
 
