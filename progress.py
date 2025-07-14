@@ -1,8 +1,8 @@
 import datetime
 
 # === CONFIGURABLE VALUES ===
-unicity_distances = [46]   # List of UD values (in symbols)
-translated_symbols = 268                  # Number of symbols translated
+unicity_distances = [46, 339, 475]   # List of UD values (in symbols)
+translated_symbols = 508                  # Number of symbols translated
 total_target_symbols = 1000                # Progress bar range
 
 # === CALCULATED VALUES ===

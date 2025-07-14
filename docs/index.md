@@ -31,7 +31,7 @@ However, Yajnadevam refused to acknowledge any flaw. In fact, he issued a challe
 This isn’t just a rebuttal. It’s a demonstration of how methodological abuse can produce false “decipherments,” and how mathematical jargon can be used to dazzle rather than to clarify.
 
 ---
-## Statement of the challenge
+## Statement of the challenge: ["Unicity Distance"](unicity-history.md)
 
 What counts as *deciphering* the U.S. Constitution? For the purposes of this demonstration, we shall adopt the **same metric** that Yajnadevam uses to claim that his Indus Valley Civilization (IVC) decipherment is valid: **unicity distance**.
 
@@ -43,27 +43,10 @@ From his own website:
 
 Thus, to demonstrate a successful “decipherment” of the U.S. Constitution, we must simply **cross this unicity distance** — by Yajnadevam’s own criterion.
 
-We shall use the **same formula** from his paper to compute the unicity distance (The relevant section is *2.4.2: "Unicity Distance"*)
+### [The highly flexible and convenient nature of the Unicity Distance](unicity-history.md)
+Now, the unicity distance proposed by YD keeps changing as more and more symbols of the constitution are deciphered. The history of these formulae for calculating unicity distance has therefore been shifted to [its own page](unicity-history.md)
 
-YD assumes a the following increases in equivocation due to conflating:
-- Aspirated and unaspirated phonemes: **10%**
-- Retroflex and dental phonemes **10%**
-- All sibilants: **150%**
-
-We instead use **more conservative estimates**:
-- Aspirated and unaspirated phonemes: **20%**
-- Retroflex and dental phonemes **20%**
-- All sibilants: **200%**
-
-These assumptions are summarized in the following section.
-
-Using these, the unicity distance \( U \) is computed as:
-
-<div style="text-align: center;">
-  <code>U = (26 + 18 × 0.2 + 1 × 2) / 0.7 ≈ 45.143</code>
-</div>
-
-Hence, if our "decipherment" of the U.S. Constitution produces *coherent output beyond 46 characters*, it meets the same standard that Yajnadevam sets for his own work.
+We shall soon also include a page explaining what unicity distance actually is, in a comprehensible way without dazzling the audience with jargon. However, for the moment, please bear with us as we provide only the formulae without a clear definition of the concept.
 
 ---
 
@@ -133,21 +116,41 @@ Additionally, we have also deciphered many of the *shortest* English words, and 
 
 ## Translation Summary
 
-Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we don't expect him to simply concede; We anticipate he will start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. For now, the red marker stands alone, but we're not betting it'll stay that way.
+Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we don't expect him to simply concede; We anticipate he will start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. F̶o̶r̶ n̶o̶w̶, t̶h̶e̶ r̶e̶d̶ m̶a̶r̶k̶e̶r̶ s̶t̶a̶n̶d̶s̶ a̶l̶o̶n̶e̶, b̶u̶t̶ w̶e̶'r̶e̶ n̶o̶t̶ b̶e̶t̶t̶i̶n̶g̶ i̶t̶'l̶l̶ s̶t̶a̶y̶ t̶h̶a̶t̶ w̶a̶y̶. As predicted, the red marker has moved **2** times as of date. The history of these changes is recorded [here](unicity-history.md)
 
-As of date, the unicity distance is **46**, and **268+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
+As of date, the unicity distance is **475**, and **508+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
 
 <h3>Progress in first 1000 symbols</h3>
 
 <div style="position: relative; width: 100%; max-width: 600px; height: 30px; background: #eee; border-radius: 6px; overflow: hidden; border: 1px solid #ccc;">
 
   <!-- Green progress bar -->
-  <div style="width: 27%; height: 100%; background: #4caf50;"></div>
+  <div style="width: 51%; height: 100%; background: #4caf50;"></div>
 
   <!-- Unicity Distance marker -->
   <div style="
     position: absolute;
     left: 5%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: pink;
+    z-index: 2;">
+  </div>
+  <!-- Unicity Distance marker -->
+  <div style="
+    position: absolute;
+    left: 34%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: pink;
+    z-index: 2;">
+  </div>
+  <!-- Unicity Distance marker -->
+  <div style="
+    position: absolute;
+    left: 48%;
     top: 0;
     bottom: 0;
     width: 2px;
@@ -157,5 +160,5 @@ As of date, the unicity distance is **46**, and **268+** symbols have been trans
 
 </div>
 
-<p style="margin-top: 0.5rem;">Current progress: <strong>26.80%</strong>. Last updated: 2025-Jul-13, 11:35 (GMT +5:30)</p>
+<p style="margin-top: 0.5rem;">Current progress: <strong>50.80%</strong>. Last updated: 2025-Jul-14, 21:49 (GMT +5:30)</p>
 
