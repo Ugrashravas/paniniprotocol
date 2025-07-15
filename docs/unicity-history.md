@@ -46,7 +46,7 @@ and
 
 $$\frac{3+\log_2{(2^{26})^{81}}}{0.7\log_2{81}} \approx 475.225$$
 
-And sure enough, we crossed these distances as well.
+And sure enough, we crossed these distances as well. (Of course, this formula is also faulty as it does not account properly for the phoneme classes arbitrarily chosen by YD. His 48 is not a magic number, and there are a lot many more ways of choosing upto pairs of two phonemes to populate his phoneme classes.)
 
 ## The Second Revision
 
