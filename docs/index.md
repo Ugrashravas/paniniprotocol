@@ -107,7 +107,9 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 ---
 ## [📄 View Translations](translation.md)
 
-The decipherment and translation of the United States constitution are available [here](translation.md).
+The decipherment and translation of the [United States constitution are available here](translation.md).
+
+The decipherment and translation of [short English words are available here](translation.md).
 
 Additionally, we have also deciphered many of the *shortest* English words, and even deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the unicity distance. These will be uploaded here in due time.
 
