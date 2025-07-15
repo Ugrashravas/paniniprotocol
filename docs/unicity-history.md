@@ -1,3 +1,9 @@
+<!-- MathJax for rendering inline/block LaTeX -->
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
 [⬅️ Back to Overview](index.md)
 ## The Original Approach: Linear \& Arbitrary
 
@@ -26,7 +32,7 @@ Hence, if our "decipherment" of the U.S. Constitution produced *coherent output 
 ## The First Revision: Actually Considering the Keyspace
 
 Immediately after we crossed **46** symbols, it was pointed out by one of his followers that a "better formula" was available in his discord server:
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Personally I have some doubts on the unicity distance calculation, it seemed off when I read it in your original thread. But it would require me to brush up on the fundamentals and work is going to keep me busy for a couple of weeks<br><br>Yes I saw your argument that you used YD&#39;s…</p>&mdash; The Butter Thief (@TheButterThief) <a href="https://twitter.com/TheButterThief/status/1942934255320916056?ref_src=twsrc%5Etfw">July 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Personally I have some doubts on the unicity distance calculation, it seemed off when I read it in your original thread. But it would require me to brush up on the fundamentals and work is going to keep me busy for a couple of weeks<br><br>Yes I saw your argument that you used YD&#39;s…</p>&mdash; The Butter Thief (@TheButterThief) <a href="https://twitter.com/TheButterThief/status/1942934255320916056?ref_src=twsrc%5Etfw">July 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  -->
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">the discord is already public dude, i am not trying to hide anything, anyways here goes <a href="https://t.co/1RgZ7zNndV">pic.twitter.com/1RgZ7zNndV</a></p>&mdash; The Butter Thief (@TheButterThief) <a href="https://twitter.com/TheButterThief/status/1942948814710616119?ref_src=twsrc%5Etfw">July 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
