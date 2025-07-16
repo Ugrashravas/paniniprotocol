@@ -10,7 +10,7 @@ nav_order: 3
 
 
 [⬅️ Back to Overview](index.md)
-## The Original Approach: Linear \& Arbitrary
+## The Original Approach: Linear & Arbitrary
 
 We began by using the **same formula** from YD's paper to compute the unicity distance (The relevant section is *2.4.2: "Unicity Distance"*)
 

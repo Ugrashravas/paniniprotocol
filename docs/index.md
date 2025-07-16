@@ -116,7 +116,7 @@ The decipherment and translation of the [United States constitution are availabl
 
 The decipherment and translation of [short English words are available here](short-words.md).
 
-Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the (original) unicity distance. These will be uploaded here in due time.
+Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the (original) unicity distance. This will be uploaded here in due time.
 
 
 ## Present Status
