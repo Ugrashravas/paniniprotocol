@@ -1,3 +1,8 @@
+---
+title: translation
+nav_order: 2
+---
+
 [⬅️ Back to Overview](index.md)
 # Translation Table
 

@@ -1,3 +1,8 @@
+---
+title: shortwords
+nav_order: 3
+---
+
 [⬅️ Back to Overview](index.md)
 # Translation Table
 

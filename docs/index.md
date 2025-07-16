@@ -1,82 +1,11 @@
+---
+title: Home
+nav_order: 1
+---
 <!-- MathJax for rendering inline/block LaTeX -->
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-
-<!-- Sidebar Aesthetic -->
-<style>
-  body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    display: flex;
-  }
-
-  .sidebar {
-    width: 220px;
-    background-color: #1e1e1e;
-    color: white;
-    padding: 1rem;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left: 0;
-    overflow-y: auto;
-    border-right: 1px solid #444;
-  }
-
-  .sidebar h2 {
-    font-size: 1.2rem;
-    margin-top: 0;
-    margin-bottom: 1rem;
-    color: #ccc;
-  }
-
-  .sidebar a {
-    color: #ccc;
-    text-decoration: none;
-    display: block;
-    padding: 0.4rem 0;
-    transition: all 0.2s ease;
-  }
-
-  .sidebar a:hover {
-    color: #fff;
-    padding-left: 5px;
-  }
-
-  .main-content {
-    margin-left: 220px;
-    padding: 2rem;
-    flex: 1;
-  }
-
-  @media screen and (max-width: 768px) {
-    .sidebar {
-      position: absolute;
-      width: 200px;
-      height: auto;
-      z-index: 999;
-    }
-
-    .main-content {
-      margin-left: 0;
-      padding: 1rem;
-    }
-  }
-</style>
-
-<!-- Sidebar Links -->
-<div class="sidebar">
-  <h2>Pāṇini Protocol</h2>
-  <a href="#background">Background</a>
-  <a href="#statement-of-the-challenge-unicity-distance">Problem Statement</a>
-  <a href="#latin-to-sanskrit-phoneme-class-mapping-jeffersons-key">Jefferson's Key</a>
-  <a href="#brāhmī-map">Brāhmī Map</a>
-  <a href="#translations">Translations</a>
-  <a href="#present-status">Present Status</a>
-</div>
-
-<div class="main-content">
 
 # Pāṇini Protocol
 
@@ -232,5 +161,3 @@ As of date, the unicity distance is **475**, and **508+** symbols have been tran
 </div>
 
 <p style="margin-top: 0.5rem;">Current progress: <strong>50.80%</strong>. Last updated: 2025-Jul-14, 21:49 (GMT +5:30)</p>
-
-</div>
