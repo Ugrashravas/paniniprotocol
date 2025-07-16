@@ -1,8 +1,82 @@
-
 <!-- MathJax for rendering inline/block LaTeX -->
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
+<!-- Sidebar Aesthetic -->
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+  }
+
+  .sidebar {
+    width: 220px;
+    background-color: #1e1e1e;
+    color: white;
+    padding: 1rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+    border-right: 1px solid #444;
+  }
+
+  .sidebar h2 {
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #ccc;
+  }
+
+  .sidebar a {
+    color: #ccc;
+    text-decoration: none;
+    display: block;
+    padding: 0.4rem 0;
+    transition: all 0.2s ease;
+  }
+
+  .sidebar a:hover {
+    color: #fff;
+    padding-left: 5px;
+  }
+
+  .main-content {
+    margin-left: 220px;
+    padding: 2rem;
+    flex: 1;
+  }
+
+  @media screen and (max-width: 768px) {
+    .sidebar {
+      position: absolute;
+      width: 200px;
+      height: auto;
+      z-index: 999;
+    }
+
+    .main-content {
+      margin-left: 0;
+      padding: 1rem;
+    }
+  }
+</style>
+
+<!-- Sidebar Links -->
+<div class="sidebar">
+  <h2>Pāṇini Protocol</h2>
+  <a href="#background">Background</a>
+  <a href="#statement-of-the-challenge-unicity-distance">Problem Statement</a>
+  <a href="#latin-to-sanskrit-phoneme-class-mapping-jeffersons-key">Jefferson's Key</a>
+  <a href="#brāhmī-map">Brāhmī Map</a>
+  <a href="#translations">Translations</a>
+  <a href="#present-status">Present Status</a>
+</div>
+
+<div class="main-content">
 
 # Pāṇini Protocol
 
@@ -12,7 +86,6 @@ Welcome to the official dashboard for the first decipherment of the United State
 <img src="img/paniniprotocol.jpeg" alt="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="550">
 </div>
 
----
 # Background
 
 Yajnadevam (@yajnadevam) has made waves online and in media by claiming to have deciphered the Indus Valley Civilization (IVC) script, a problem that has stumped linguists, epigraphers, and historians for over a century. Unlike traditional approaches rooted in archaeology and linguistics, Yajnadevam claims his method is based on cryptography and information theory, and therefore, "mathematically correct".
@@ -31,7 +104,6 @@ However, Yajnadevam refused to acknowledge any flaw. In fact, he issued a challe
 
 This isn’t just a rebuttal. It’s a demonstration of how methodological abuse can produce false “decipherments,” and how mathematical jargon can be used to dazzle rather than to clarify.
 
----
 ## Statement of the challenge: ["Unicity Distance"](unicity-history.md)
 
 What counts as *deciphering* the U.S. Constitution? For the purposes of this demonstration, we shall adopt the **same metric** that Yajnadevam uses to claim that his Indus Valley Civilization (IVC) decipherment is valid: **unicity distance**.
@@ -49,7 +121,6 @@ Now, the unicity distance proposed by YD keeps changing as more and more symbols
 
 We shall soon also include a page explaining what unicity distance actually is, in a comprehensible way without dazzling the audience with jargon. However, for the moment, please bear with us as we provide only the formulae without a clear definition of the concept.
 
----
 
 ## Latin to Sanskrit Phoneme Class Mapping (Jefferson's Key)
 
@@ -105,7 +176,6 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 <img src="img/brahmimap.png" alt="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" title="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" width="550">
 </div>
 
----
 ## [Translations](translation.md)
 
 The decipherment and translation of the [United States constitution are available here](translation.md).
@@ -113,8 +183,6 @@ The decipherment and translation of the [United States constitution are availabl
 The decipherment and translation of [short English words are available here](short-words.md).
 
 Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the (original) unicity distance. These will be uploaded here in due time.
-
----
 
 
 ## Present Status
@@ -164,3 +232,5 @@ As of date, the unicity distance is **475**, and **508+** symbols have been tran
 </div>
 
 <p style="margin-top: 0.5rem;">Current progress: <strong>50.80%</strong>. Last updated: 2025-Jul-14, 21:49 (GMT +5:30)</p>
+
+</div>
