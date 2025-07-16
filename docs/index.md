@@ -7,11 +7,6 @@ nav_order: 1
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-
-[Background](#background) | [Problem Statement](#statement-of-the-challenge-unicity-distance) | [Jefferson's Key](#latin-to-sanskrit-phoneme-class-mapping-jeffersons-key) | [Brāhmī Map](#brāhmī-map) | [Translations](#translations) | [Present Status](#present-status)
-
----
-
 # Pāṇini Protocol
 
 Welcome to the official dashboard for the first decipherment of the United States constitution as Pāṇinian Sanskrit!
@@ -112,8 +107,6 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 
 ## Translations
 
-
-[US Constitution](translation.md) | [Short English Words](short-words.md)
 
 The decipherment and translation of the [United States constitution are available here](translation.md).
 

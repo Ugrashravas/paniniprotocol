@@ -1,6 +1,6 @@
 ---
-title: shortwords
-nav_order: 3
+title: Short Words
+nav_order: 2
 ---
 
 [⬅️ Back to Overview](index.md)

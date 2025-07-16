@@ -1,6 +1,6 @@
 ---
-title: unicity
-nav_order: 4
+title: Unicity Distance History
+nav_order: 3
 ---
 
 <!-- MathJax for rendering inline/block LaTeX -->
