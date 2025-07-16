@@ -1,6 +1,6 @@
 title: Pāṇini Protocol
 theme: just-the-docs
-
+runs-on: self-hosted
 # Optional: auto sidebar
 just_the_docs:
   aux_links:
