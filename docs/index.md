@@ -3,6 +3,81 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+<!-- Sidebar Aesthetic -->
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+  }
+
+  .sidebar {
+    width: 220px;
+    background-color: #1e1e1e;
+    color: white;
+    padding: 1rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+    border-right: 1px solid #444;
+  }
+
+  .sidebar h2 {
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #ccc;
+  }
+
+  .sidebar a {
+    color: #ccc;
+    text-decoration: none;
+    display: block;
+    padding: 0.4rem 0;
+    transition: all 0.2s ease;
+  }
+
+  .sidebar a:hover {
+    color: #fff;
+    padding-left: 5px;
+  }
+
+  .main-content {
+    margin-left: 220px;
+    padding: 2rem;
+    flex: 1;
+  }
+
+  @media screen and (max-width: 768px) {
+    .sidebar {
+      position: absolute;
+      width: 200px;
+      height: auto;
+      z-index: 999;
+    }
+
+    .main-content {
+      margin-left: 0;
+      padding: 1rem;
+    }
+  }
+</style>
+
+<!-- Sidebar Links -->
+<div class="sidebar">
+  <h2>Pāṇini Protocol</h2>
+  <a href="#background">Background</a>
+  <a href="#statement-of-the-challenge-unicity-distance">Problem Statement</a>
+  <a href="#latin-to-sanskrit-phoneme-class-mapping-jeffersons-key">Jefferson's Key</a>
+  <a href="#brāhmī-map">Brāhmī Map</a>
+  <a href="#translations">Translations</a>
+  <a href="#present-status">Present Status</a>
+</div>
+
+<div class="main-content">
+
 # Pāṇini Protocol
 
 Welcome to the official dashboard for the first decipherment of the United States constitution as Pāṇinian Sanskrit!
@@ -105,18 +180,18 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 </div>
 
 ---
-## [📄 View Translations](translation.md)
+## [Translations](translation.md)
 
 The decipherment and translation of the [United States constitution are available here](translation.md).
 
 The decipherment and translation of [short English words are available here](short-words.md).
 
-Additionally, we have also deciphered many of the *shortest* English words, and even deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the unicity distance. These will be uploaded here in due time.
+Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the (original) unicity distance. These will be uploaded here in due time.
 
 ---
 
 
-## Translation Summary
+## Present Status
 
 Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we don't expect him to simply concede; We anticipate he will start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. F̶o̶r̶ n̶o̶w̶, t̶h̶e̶ r̶e̶d̶ m̶a̶r̶k̶e̶r̶ s̶t̶a̶n̶d̶s̶ a̶l̶o̶n̶e̶, b̶u̶t̶ w̶e̶'r̶e̶ n̶o̶t̶ b̶e̶t̶t̶i̶n̶g̶ i̶t̶'l̶l̶ s̶t̶a̶y̶ t̶h̶a̶t̶ w̶a̶y̶. As predicted, the red marker has moved **2** times as of date. The history of these changes is recorded [here](unicity-history.md)
 
@@ -164,3 +239,4 @@ As of date, the unicity distance is **475**, and **508+** symbols have been tran
 
 <p style="margin-top: 0.5rem;">Current progress: <strong>50.80%</strong>. Last updated: 2025-Jul-14, 21:49 (GMT +5:30)</p>
 
+</div>

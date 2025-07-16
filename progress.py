@@ -48,7 +48,8 @@ As of date, the unicity distance is **{max_ud}**, and **{translated_symbols}+** 
 </div>
 
 <p style="margin-top: 0.5rem;">Current progress: <strong>{progress_pct:.2f}%</strong>. Last updated: {now}</p>
-'''
+
+</div>'''
 
 # === PRINT TO TERMINAL ===
 print(html_output)
