@@ -11,6 +11,7 @@ Below is a breakdown of translated English sentences with their Sanskrit equival
 <div style="text-align: center;">
 <img src="img/founding_fathers_yajna.jpeg" alt="The founding fathers just before they began writing the constitution" width="100%">
 </div>
+<br>
 
 <h3>Live Translation Table</h3>
 

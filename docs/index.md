@@ -14,6 +14,7 @@ Welcome to the official dashboard for the first decipherment of the United State
 <div style="text-align: center;">
 <img src="img/paniniprotocol.jpeg" alt="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="550">
 </div>
+<br>
 
 # Background
 
@@ -28,6 +29,7 @@ However, Yajnadevam refused to acknowledge any flaw. In fact, he issued a challe
 <div style="text-align: center;">
 <img src="img/challenge.jpeg" alt="YD's Challenge" title="YD's challlenge" width="400">
 </div>
+<br>
 
 ... and, that’s exactly what I’ve done.
 
@@ -58,6 +60,7 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 <div style="text-align: center;">
 <img src="img/revelation.png" alt="Thomas Jefferson revealing the one-key-to-rule-them-all to Ugraśravas in a dream" title="Thomas Jefferson revealing the one-key-to-rule-them-all to Ugraśravas in a dream" width="550">
 </div>
+<br>
 
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
@@ -104,6 +107,7 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 <div style="text-align: center;">
 <img src="img/brahmimap.png" alt="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" title="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" width="550">
 </div>
+<br>
 
 ## Translations
 

@@ -28,9 +28,7 @@ Our assumptions are summarized in this [section](index.md#latin-to-sanskrit-phon
 
 Using these, the unicity distance \( U \) was computed as:
 
-<div style="text-align: center;">
-  <code>U = (26 + 18 × 0.2 + 1 × 2) / 0.7 ≈ 45.143</code>
-</div>
+$$U = \frac{(26 + 18 × 0.2 + 1 × 2)}{0.7} \approx 45.143$$
 
 Hence, if our "decipherment" of the U.S. Constitution produced *coherent output beyond 46 characters*, it would've met the same standard that Yajnadevam set for his own work.
 
