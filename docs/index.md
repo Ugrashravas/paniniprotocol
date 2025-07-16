@@ -238,5 +238,5 @@ As of date, the unicity distance is **475**, and **508+** symbols have been tran
 </div>
 
 <p style="margin-top: 0.5rem;">Current progress: <strong>50.80%</strong>. Last updated: 2025-Jul-14, 21:49 (GMT +5:30)</p>
- 
+
 </div>
