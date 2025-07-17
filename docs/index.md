@@ -35,7 +35,7 @@ However, Yajnadevam refused to acknowledge any flaw. In fact, he issued a challe
 
 This isn’t just a rebuttal. It’s a demonstration of how methodological abuse can produce false “decipherments,” and how mathematical jargon can be used to dazzle rather than to clarify.
 
-## Statement of the challenge: ["Unicity Distance"](unicity-history.md)
+## Statement of the Challenge
 
 What counts as *deciphering* the U.S. Constitution? For the purposes of this demonstration, we shall adopt the **same metric** that Yajnadevam uses to claim that his Indus Valley Civilization (IVC) decipherment is valid: **unicity distance**.
 
@@ -47,10 +47,17 @@ From his own website:
 
 Thus, to demonstrate a successful “decipherment” of the U.S. Constitution, we must simply **cross this unicity distance** — by Yajnadevam’s own criterion.
 
-### [The highly flexible and convenient nature of the Unicity Distance](unicity-history.md)
-Now, the unicity distance proposed by YD keeps changing as more and more symbols of the constitution are deciphered. The history of these formulae for calculating unicity distance has therefore been shifted to [its own page](unicity-history.md)
+### The Highly Flexible and Convenient Nature of the Unicity Distance
+Now, the unicity distance proposed by YD keeps changing as more and more symbols of the constitution are deciphered. The history of these formulae for calculating unicity distance has therefore been shifted to [its own page](unicity-history.md).
 
 We shall soon also include a page explaining what unicity distance actually is, in a comprehensible way without dazzling the audience with jargon. However, for the moment, please bear with us as we provide only the formulae without a clear definition of the concept.
+
+### The Challenge Definition Has Entered Competitive Acrobatics
+
+While the original challenge is what is described here, the definitions turned out to be more suggestions than rules. What followed was a remarkable display of post-hoc edits, mid-air redefinitions, and increasingly creative pivots.
+
+Enjoy the highlights of the goalpost acrobatics [here](dancing-goalposts.md)!
+
 
 
 ## Latin to Sanskrit Phoneme Class Mapping (Jefferson's Key)
@@ -121,7 +128,9 @@ Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from 
 
 ## Present Status
 
-Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we don't expect him to simply concede; We anticipate he will start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. F̶o̶r̶ n̶o̶w̶, t̶h̶e̶ r̶e̶d̶ m̶a̶r̶k̶e̶r̶ s̶t̶a̶n̶d̶s̶ a̶l̶o̶n̶e̶, b̶u̶t̶ w̶e̶'r̶e̶ n̶o̶t̶ b̶e̶t̶t̶i̶n̶g̶ i̶t̶'l̶l̶ s̶t̶a̶y̶ t̶h̶a̶t̶ w̶a̶y̶. As predicted, the red marker has moved **2** times as of date. The history of these changes is recorded [here](unicity-history.md)
+Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we don't expect him to simply concede; We anticipate he will start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. F̶o̶r̶ n̶o̶w̶, t̶h̶e̶ r̶e̶d̶ m̶a̶r̶k̶e̶r̶ s̶t̶a̶n̶d̶s̶ a̶l̶o̶n̶e̶, b̶u̶t̶ w̶e̶'r̶e̶ n̶o̶t̶ b̶e̶t̶t̶i̶n̶g̶ i̶t̶'l̶l̶ s̶t̶a̶y̶ t̶h̶a̶t̶ w̶a̶y̶.
+
+As predicted, the red marker has moved **2** times as of date. The history of these changes is recorded [here](unicity-history.md). More interestingly, the challenge itself underwent metamorphosis multiple times over, and this history is recorded [here](dancing-goalposts.md).
 
 As of date, the unicity distance is **475**, and **508+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
 

@@ -1,5 +1,5 @@
 ---
-title: Shifted Goalposts
+title: Dancing Goalposts
 nav_order: 4
 ---
 
@@ -23,7 +23,7 @@ Why did Yajnadevam challenge us to read the U.S. Constitution as Sanskrit in the
 
 We had pointed out [serious flaws](https://x.com/Ugrashravas/status/1875193477270745436) in his so-called "decipherments" of the Indus script: they were [barely grammatical, filled with unattested words, generally meaningless, and relied heavily on special pleading](https://x.com/Ugrashravas/status/1875129521202229617): often labeling an incorrect form as "Vedic" simply because it showed up once in an obscure corner of one hymn.
 
-We examined his method in detail and found deeper, systematic problems. Most notably, his dictionary was fundamentally flawed: it consisted only of [raw stems and verbal roots as listed in the Monier-Williams](https://x.com/Ugrashravas/status/1882124569751781573) key. These abstract forms (not words) are explicitly forbidden from appearing in actual Sanskrit speech or writing. In effect, from the very beginning, he was "deciphering" using a wordlist that couldn’t possibly produce a single valid Sanskrit word.
+We examined his method in detail and found deeper, systematic problems. Most notably, his dictionary was fundamentally flawed: it consisted only of [raw stems and verbal roots as listed in the Monier-Williams](https://x.com/Ugrashravas/status/1882124569751781573) key. These abstract forms (not words) are explicitly forbidden from appearing in actual Sanskrit speech or writing. In effect, from the very beginning, he was "deciphering" using a wordlist that couldn’t possibly produce a single valid Sanskrit word. *(This likely deserves its own page or atleast section; we shall elaborate on this at a later time)*
 
 Rather than acknowledge these foundational issues or address the blatant grammatical problems, he began throwing around information theory jargon instead. According to him, his "decipherments" of the IVC script as "Sanskrit" are **mathematically valid** because they cross the **unicity distance**: the threshold beyond which, in information theory, only a *unique* key can recover meaningful plaintext.
 
@@ -38,27 +38,22 @@ So that’s exactly what we did:
 
 ## Goalpost #2: "But Can You Read Jefferson’s Papers?"
 
-After the Constitution was deciphered (cleanly, and beyond the unicity distance), the response wasn’t acknowledgment.
-
-Instead, the challenge immediately pivoted to:
+After the Constitution was deciphered (cleanly, and beyond the unicity distance), the response wasn’t acknowledgment. Instead, the challenge immediately pivoted to:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reverse translate the Jefferson papers<br><br>They&#39;re from the same era. Let&#39;s see if you can preserve your junk assignment.<br><br>You should be able to read it with your assignment from the Constitution <a href="https://t.co/YvoY3qiSbG">https://t.co/YvoY3qiSbG</a></p>&mdash; Nana Siddharth (@NanaSiddharth) <a href="https://twitter.com/NanaSiddharth/status/1942551064793997600?ref_src=twsrc%5Etfw">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Frankly, this was almost insulting.
 
-The Jefferson papers use the same language, style, and vocabulary as the Constitution. If the system can handle one, it can handle the other.
+The Jefferson papers use the same language, style, and vocabulary as the Constitution. If our key can decipher one, it can handle the other. So rather than wasting time on Jefferson, we deciphered [his own tweet](https://x.com/Ugrashravas/status/1942565655590625370).
 
-So rather than wasting time on Jefferson, we deciphered [his own tweet](https://x.com/Ugrashravas/status/1942565655590625370).
-
-For good measure, we also deciphered Twitter brainrot, which, given how different it is from standard English, effectively reads like a separate dialect.  
-Naturally, it came out as a Dravidian dialect of Sanskrit:
+For good measure, we also deciphered Twitter brainrot, which, given how different it is from standard English, effectively reads like a separate dialect. Naturally, it came out as a Dravidian dialect of Sanskrit:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Turns out to be a Dravidian spy for the Aryans concerned that the Aryans didn&#39;t show up at dawn to invade his IVC fort <a href="https://t.co/z3mNR9Ujow">pic.twitter.com/z3mNR9Ujow</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1942632943312146555?ref_src=twsrc%5Etfw">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <br>
 
-And to round things off, we [deciphered Nietzsche, straight from the original German, into fluent, grammatical "Sanskrit"](https://x.com/Ugrashravas/status/1943143128032309745). Just to underscore that this was no ordinary key, but one revealed by Jefferson himself.
+And to round things off, we [deciphered Nietzsche, straight from the original German, into fluent, grammatical "Sanskrit"](https://x.com/Ugrashravas/status/1943143128032309745). Just to underscore what divinely revealed keys are capable of.
 
-While this particular challenge came from his followers and not Yajnadevam himself, it was just the opening act. The real goalpost gymnastics were still to come, courtesy of Yajnadevam directly.
+While this particular challenge came from his followers and not YD himself, it was just the opening act. The real goalpost gymnastics were still to come, courtesy of Yajnadevam directly.
 
 ## Goalpost #3: "But What About These Specific Words?"
 
@@ -71,9 +66,7 @@ This time, YD began throwing out **specific English words** for me to decipher. 
 
 And here’s the kicker: the IVC script doesn’t even use **spaces**. YD has never deciphered isolated *words* from that corpus — only loose sentence-length blobs. His own method has no mechanism for word-boundaries.
 
-But now, suddenly, my system was expected to do just that.
-
-A new goalpost, freshly forged, and as always, one he wouldn't dare apply to himself.
+But now, suddenly, my system was expected to do that. A new goalpost, freshly forged, and as always, one he wouldn't dare apply to himself.
 
 But of course, we translated those words as well. This time not with supernatural help, but [perfectly natural; even botanical](short-words.md).
 
@@ -81,16 +74,12 @@ But of course, we translated those words as well. This time not with supernatura
 
 ## Goalpost Shift #4: “Alright, But What About DLUUUDZY?”
 
-Just when you thought the goalpost couldn’t move any further, it crossed the Atlantic.
-
-Now the challenge was to decipher **random Polish words**.
+Just when you thought the goalpost couldn’t move any further, it crossed the Atlantic. Now the challenge was to decipher **random Polish words**.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">OK great … do you also accept that not every Latin script can be read? Based on my Polish example?</p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1945430180551356764?ref_src=twsrc%5Etfw">July 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <br>
 
-No context. No connection to the original task. Just... Polish. We were apparently testing whether Sanskrit could decode a Warsaw phonebook.
-
-There was no longer any pretense of symmetry: YD has never produced anything close to this level of specificity. And yet, somehow, this was now the standard.
+No context. No connection to the original task. Just... Polish. There was no longer any pretense of symmetry: YD has never produced anything close to this level of specificity. Yet, somehow, this was now the standard.
 
 ## Goalpost Shift #5: “Now Go the Other Way”
 
