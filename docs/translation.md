@@ -9,7 +9,7 @@ nav_order: 2
 Below is a breakdown of translated English sentences with their Sanskrit equivalents, parsing, and grammar notes.
 
 <div style="text-align: center;">
-<img src="img/founding_fathers_yajna.jpeg" alt="The founding fathers just before they began writing the constitution" width="100%">
+<img src="img/founding_fathers_yajna.jpeg" title="The founding fathers just before beginning to write the constitution" alt="The founding fathers just before beginning to write the constitution" width="100%">
 </div>
 <br>
 

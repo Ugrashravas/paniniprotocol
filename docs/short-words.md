@@ -1,15 +1,15 @@
 ---
 title: Short Words
-nav_order: 2
+nav_order: 3
 ---
 
 [⬅️ Back to Overview](index.md)
 # Translation Table
 
-One common challenge from skeptics of Jefferson's key is to decipher short English words. They probably believe that the key was reverse-engineered using "algorithms" on "datasets", and are unable to digest that the key was divinely revealed and as such not bound by their teeny tiny toy datasets. Below is a breakdown of short English words with their Sanskrit equivalents, parsing, and grammar notes (many thanks to [@F24111998](https://x.com/F24111998) for his major help here).
+One common challenge from skeptics of Jefferson's key is to decipher short English words. They probably believe that the key was reverse-engineered using "algorithms" on "datasets", and are unable to digest that the key was divinely revealed and as such not bound by their teeny tiny toy datasets. Below is a breakdown of short English words with their Sanskrit equivalents, parsing, and grammar notes (many thanks to "[professional Panini assasin type dude](https://x.com/yajnadevam/status/1945615379222376841)" [@F24111998](https://x.com/F24111998) for his major help here).
 
 <div style="text-align: center;">
-<img src="img/rajiva.png" alt="Ugraśravas shattering one of the dark heads of ignorance with the help of the magic flower Rājīva" width="100%">
+<img src="img/rajiva.png" title="Ugraśravas shattering one of the dark heads of ignorance with the help of the magic flower Rājīva" alt="Ugraśravas shattering one of the dark heads of ignorance with the help of the magic flower Rājīva" width="100%">
 </div>
 <br>
 
