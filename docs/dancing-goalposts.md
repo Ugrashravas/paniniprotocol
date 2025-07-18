@@ -72,7 +72,7 @@ But of course, we translated those words as well. This time not with supernatura
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">All these words are flawless Sanskrit per Jefferson&#39;s key!<br><br>Thanks to <a href="https://twitter.com/F24111998?ref_src=twsrc%5Etfw">@F24111998</a> ji for the precise decipherment :)<br><br>येन धौता गिरःपुंसां विमलैःशब्दविरिभिः<br>तमश्चाज्ञानजं भिन्नं तस्मै पाणिनये नमः<br>Obeisance to Pāṇini, who SHATTERED the darkness of ignorance with pure word-waters!🙏 <a href="https://t.co/T7lhtPcvf3">https://t.co/T7lhtPcvf3</a> <a href="https://t.co/LIZ3dV3Uv4">pic.twitter.com/LIZ3dV3Uv4</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1945515317964201999?ref_src=twsrc%5Etfw">July 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-## Goalpost Shift #4: “Alright, But What About DLUUUDZY?”
+## Goalpost #4: “Alright, But What About DLUUUDZY?”
 
 Just when you thought the goalpost couldn’t move any further, it crossed the Atlantic. Now the challenge was to decipher **random Polish words**.
 
@@ -81,7 +81,7 @@ Just when you thought the goalpost couldn’t move any further, it crossed the A
 
 No context. No connection to the original task. Just... Polish. There was no longer any pretense of symmetry: YD has never produced anything close to this level of specificity. Yet, somehow, this was now the standard.
 
-## Goalpost Shift #5: “Now Go the Other Way”
+## Goalpost #5: “Now Go the Other Way”
 
 At this point, the goalpost had clearly given up on subtlety.
 
@@ -95,7 +95,7 @@ Having deciphered English as Sanskrit, the next demand was to reverse it. Becaus
 
 It’s unclear why this is necessary. Maybe, after so many acrobatics, the goalposts just wanted my key to spin too. Maybe it was something else entirely. I guess we’ll never know.
 
-## Goalpost Shift #6: “But You Can’t Read एएएएएए”
+## Goalpost #6: “But एएएएएए”
 
 By now, the argument had fully devolved into its purest form: an incoherent scream of pure noise. The argument had now shifted from deciphering the U.S. Constitution to *“You can’t read this specific nonsense string I just made up that doesn’t exist in any language.”*
 

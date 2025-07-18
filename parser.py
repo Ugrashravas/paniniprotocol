@@ -6,7 +6,7 @@ jefferson_revelation = {
     'D': 'द',
     'E': 'अ',
     'F': 'ब',
-    'G': 'क',
+    'G': 'च',
     'H': 'म',
     'I': 'न',
     'J': 'न',
@@ -16,7 +16,7 @@ jefferson_revelation = {
     'N': 'र',
     'O': 'इ',
     'P': 'अन्',
-    'Q': 'क',
+    'Q': 'च',
     'R': 'य',
     'S': 'व',
     'T': 'स',
@@ -63,7 +63,7 @@ def split_into_chunks_by_letters(text, target_letter_count=10):
     return chunks
 
 import sources
-text = sources.us_article1
+text = "insure domestic tranquility"
 # Get segments
 segments = split_into_chunks_by_letters(text, target_letter_count=16)
 
