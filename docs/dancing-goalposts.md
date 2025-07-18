@@ -7,6 +7,8 @@ nav_order: 4
 
 # What is the Unicity Distance covered by the Moving Goalpost?
 
+![Maybe the real unicity distance was the number of goalposts we mangled along the way](img/goalposts.png "Maybe the real unicity distance was the number of goalposts we mangled along the way")
+
 As outlined [previously](index.md#statement-of-the-challenge-unicity-distance), the original challenge was clear: decipher the Constitution of the United States beyond a certain "[Unicity Distance](unicity-distance.md)."
 
 Simple enough, right?
