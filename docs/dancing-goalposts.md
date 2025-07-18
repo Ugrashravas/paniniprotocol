@@ -17,7 +17,7 @@ Well, not quite.
 
 In addition to the predictable skirmishes over what exactly constitutes the unicity distance (see [here for the carnage](unicity-history.md)), our good friend Yajñadevam (should I use IAST here, as this is not a proper Sanskrit word?) has taken to shifting the goalposts like he's training for a World Cup penalty shootout.
 
-This page chronicles the colorful history of those shifting promises, redefinitions, and outright teleportations of the original challenge. Think of it as a running scoreboard for Pāṇinian dodgeball.
+This page chronicles the colorful history of those shifting promises, redefinitions, and outright teleportations of the original challenge. Think of it as a running scoreboard for Pāṇinian Calvinball.
 
 ## Goalpost #1: "Can you decipher the US Constitution as Sanskrit?"
 
