@@ -63,7 +63,10 @@ def split_into_chunks_by_letters(text, target_letter_count=10):
     return chunks
 
 import sources
-text = ""
+text =\
+"""
+
+"""
 # Get segments
 SEG = False
 # Display each segment and its phoneme mapping

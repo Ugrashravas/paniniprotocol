@@ -24,7 +24,42 @@ We instead used **more conservative estimates**:
 - Retroflex and dental phonemes **20%**
 - All sibilants: **200%**
 
-Our assumptions are summarized in this [section](index.md#latin-to-sanskrit-phoneme-class-mapping-jeffersons-key).
+Our assumptions are summarized in this table:
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Latin Symbol</th>
+      <th>Sanskrit Phoneme Class</th>
+      <th>Assumed Increase in Equivocation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>E</td><td>अ, आ</td><td>20%</td></tr>
+    <tr><td>T</td><td>श, ष, स, ह</td><td>200%</td></tr>
+    <tr><td>A</td><td>त, थ, ट, ठ</td><td>20%</td></tr>
+    <tr><td>O</td><td>इ, ई, य्</td><td>20%</td></tr>
+    <tr><td>I, J</td><td>न</td><td>0%</td></tr>
+    <tr><td>N</td><td>र, ऋ, ॠ</td><td>20%</td></tr>
+    <tr><td>S, Z</td><td>व</td><td>0%</td></tr>
+    <tr><td>H, X</td><td>म</td><td>0%</td></tr>
+    <tr><td>R</td><td>य</td><td>0%</td></tr>
+    <tr><td>D</td><td>द, ध, ड, ढ</td><td>20%</td></tr>
+    <tr><td>L</td><td>ए, ऐ, अय्</td><td>20%</td></tr>
+    <tr><td>U</td><td>उ, ऊ, व्</td><td>20%</td></tr>
+    <tr><td>C</td><td>प, फ</td><td>20%</td></tr>
+    <tr><td>M</td><td>क, ख</td><td>20%</td></tr>
+    <tr><td>W</td><td>ओ, औ, अव्</td><td>20%</td></tr>
+    <tr><td>F</td><td>ब, भ</td><td>20%</td></tr>
+    <tr><td>G, Q</td><td>च, छ</td><td>20%</td></tr>
+    <tr><td>Y</td><td>अस्, अः</td><td>20%</td></tr>
+    <tr><td>P</td><td>अन्, अं, ङ्, ञ्</td><td>20%</td></tr>
+    <tr><td>B</td><td>ग, घ</td><td>20%</td></tr>
+    <tr><td>V</td><td>ज, झ</td><td>20%</td></tr>
+    <tr><td>K</td><td>ल, ऌ</td><td>20%</td></tr>
+  </tbody>
+</table>
+
 
 Using these, the unicity distance \( U \) was computed as:
 
