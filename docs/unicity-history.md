@@ -59,4 +59,52 @@ Based on the latest exchange, we expect a second revision of unicity distance:
 
 It is yet to be seen by how much this will increase the unicity distance.
 
+## Summary
+
+Below, we have visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. The red marker has moved **2** times as of date.
+
+As of date, the unicity distance is **475**, and **508+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
+
+<h3>Progress in first 1000 symbols</h3>
+
+<div style="position: relative; width: 100%; max-width: 600px; height: 30px; background: #eee; border-radius: 6px; overflow: hidden; border: 1px solid #ccc;">
+
+  <!-- Green progress bar -->
+  <div style="width: 51%; height: 100%; background: #4caf50;"></div>
+
+  <!-- Unicity Distance marker -->
+  <div style="
+    position: absolute;
+    left: 5%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: pink;
+    z-index: 2;">
+  </div>
+  <!-- Unicity Distance marker -->
+  <div style="
+    position: absolute;
+    left: 34%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: pink;
+    z-index: 2;">
+  </div>
+  <!-- Unicity Distance marker -->
+  <div style="
+    position: absolute;
+    left: 48%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: red;
+    z-index: 2;">
+  </div>
+
+</div>
+
+<p style="margin-top: 0.5rem;">Current progress: <strong>50.80%</strong>. Last updated: 2025-Jul-14, 21:49 (GMT +5:30)</p>
+
 [⬅️ Back to Overview](index.md)

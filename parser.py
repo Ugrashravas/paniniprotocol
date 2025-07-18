@@ -63,14 +63,18 @@ def split_into_chunks_by_letters(text, target_letter_count=10):
     return chunks
 
 import sources
-text = "insure domestic tranquility"
+text = ""
 # Get segments
-segments = split_into_chunks_by_letters(text, target_letter_count=16)
-
+SEG = False
 # Display each segment and its phoneme mapping
-for i, segment in enumerate(segments, 1):
-    phonemes, count = decipher(segment, jefferson_revelation)
-    print(f"{i:02d},{segment.upper()},{count},{phonemes},,")
+if SEG:
+    segments = split_into_chunks_by_letters(text, target_letter_count=16)
+    for i, segment in enumerate(segments, 1):
+        phonemes, count = decipher(segment, jefferson_revelation)
+        print(f"{i:02d},{segment.upper()},{count},{phonemes},,")
+else:
+    phonemes, count = decipher(text, jefferson_revelation)
+    print(f"-,{text.upper()},{count},{phonemes},,")
 
 phonemes, count = decipher(text, jefferson_revelation)
 print(f"Total count: {count}")
