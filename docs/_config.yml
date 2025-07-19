@@ -1,5 +1,5 @@
 title: Pāṇini Protocol
-remote_theme: just_the_docs/just_the_docs
+theme: minima
 runs-on: self-hosted
 # Optional: auto sidebar
 just_the_docs:
