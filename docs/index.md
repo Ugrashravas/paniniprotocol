@@ -103,6 +103,7 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
   </tbody>
 </table>
 -->
+
 <div style="text-align: center;">
 <img src="img/brahmimap.png" alt="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" title="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" width="550">
 </div>
@@ -143,9 +144,16 @@ Apply the sum rule:
 $$
 2x = \underbrace{1 + 1 + \cdots + 1}_{x \text{ times}} = x
 $$
-$$ 2x = x $$ 
+
+$$
+2x = x
+$$
+
 So, when $x \neq 0$
-$$ \therefore 2 = 1 $$
+
+$$
+\therefore 2 = 1
+$$
 
 If this is shown even to students of the first grade, most of them will point out that the final result is obviously wrong. Yet they may struggle to explain why, as they don't understand concepts like functions, limits, or derivatives. Even beginner students of calculus often miss the flaw at first glance if the presentation is slick; And they are even more likely to do so if the erroneous conclusion is hidden.
 
