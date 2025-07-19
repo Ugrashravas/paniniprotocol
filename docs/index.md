@@ -18,7 +18,7 @@ Welcome to the official dashboard for the first decipherment of the United State
 
 # Background
 
-Yajnadevam (@yajnadevam) has made waves online and in media by claiming to have deciphered the Indus Valley Civilization (IVC) script, a problem that has stumped linguists, epigraphers, and historians for over a century. Unlike traditional approaches rooted in archaeology and linguistics, Yajnadevam claims his method is based on cryptography and information theory, and therefore, "mathematically correct".
+Yajnadevam ([@yajnadevam](https://x.com/yajnadevam)) has made waves online and in media by claiming to have deciphered the Indus Valley Civilization (IVC) script, a problem that has stumped linguists, epigraphers, and historians for over a century. Unlike traditional approaches rooted in archaeology and linguistics, Yajnadevam claims his method is based on cryptography and information theory, and therefore, "mathematically correct".
 
 However, Yajnadevam’s proposed readings, supposedly in Sanskrit, are riddled with ungrammatical constructions, violating basic rules of Sanskrit grammar. The issues are so fundamental that even beginner-level students of Sanskrit can recognize them as artificial and incorrect. Multiple scholars and enthusiasts have pointed this out, yet he continues to assert the correctness of his "Sanskrit" by citing obscure Vedic usages and far-fetched interpretations of Pāṇini's Aṣṭādhyāyī stretched beyond reasonable bounds.
 
@@ -69,6 +69,7 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 </div>
 <br>
 
+<!-- 
 <table border="0" cellpadding="6" cellspacing="0" class="center">
   <thead>
     <tr>
@@ -101,19 +102,17 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
     <tr><td>K</td><td>ल, ऌ</td></tr>
   </tbody>
 </table>
+-->
+<div style="text-align: center;">
+<img src="img/brahmimap.png" alt="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" title="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" width="550">
+</div>
+<br>
 
 **NOTE 1:**  This mapping is exactly as valid as Yajnadevam's, since, by his own standards, origin doesn't matter as long as the unicity threshold is crossed.
 
 **NOTE 2:** the phoneme classes in this table are nearly replicas of Yajnadevam's own, with very few modifications.
 
-**NOTE 3:** The scheme used to read the constitution using this table is much stricter and more conservative than Yajnadevam's, as we do not perform aribtrary consonant doubling.
-
-## Brāhmī Map
-
-<div style="text-align: center;">
-<img src="img/brahmimap.png" alt="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" title="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" width="550">
-</div>
-<br>
+**NOTE 3:** The scheme used to read the constitution using this table is much stricter and more conservative than Yajnadevam's, as we do not aribtrarily double consonants or arbitrarily insert *visarga*s and *anusvāra*s.
 
 ## Translations
 
@@ -124,6 +123,41 @@ The decipherment and translation of [short English words are available here](sho
 
 Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the (original) unicity distance. This will be uploaded here in due time.
 
+
+## But Why is Yajnadevam's Math Wrong?
+
+This is a very pertinent question. It reminds us of one of our favorite "proofs" from high school:
+
+$$
+x^2 = x \cdot x = \underbrace{x + x + x + \cdots + x}_{x \text{ times}} \quad \text{(multiplication as repeated addition)}
+$$
+
+Take the derivative on both sides:
+
+$$
+\frac{d}{dx}(x^2) = \frac{d}{dx}(\underbrace{x + x + \cdots + x}_{x \text{ times}})
+$$
+
+Apply the sum rule:
+
+$$
+2x = \underbrace{1 + 1 + \cdots + 1}_{x \text{ times}} = x
+$$
+$$ 2x = x $$ 
+So, when $x \neq 0$
+$$ \therefore 2 = 1 $$
+
+If this is shown even to students of the first grade, most of them will point out that the final result is obviously wrong. Yet they may struggle to explain why, as they don't understand concepts like functions, limits, or derivatives. Even beginner students of calculus often miss the flaw at first glance if the presentation is slick; And they are even more likely to do so if the erroneous conclusion is hidden.
+
+A similar kind of mistake is happening here, with an extra layer of *double blindness*:
+
+- Even beginner students of Sanskrit can easily tell that Yajnadevam's results are wrong. But they usually lack the tools of information theory to explain *why* the method fails.
+
+- On the other hand, those trained in information theory usually have no knowledge of Sanskrit. They see the math but don't have the tools to judge the linguistic absurdity of the output.
+
+In fact, just like novice calculus students with the $2 = 1$ "proof", even professors of information theory may overlook the flaws in the method if it’s presented smoothly, unless they are shown the blatantly false final result. And this is exactly what happens: during his [presentations at various institutes](https://x.com/yajnadevam/status/1865947711880757272), Yajnadevam focuses only on the method, rarely (if ever) revealing the final linguistic outputs. This makes him claim that his method has been endorsed by the audience, even when its conclusions were hidden from and/or incomprehensible to them.
+
+We have however begun reviewing the math in detail and have already noted some fundamental flaws in Yajnadevam's methods. However, merely noting the flaws is often not satisfactory for a zealous audience, so we are attempting to formulate the correct mathematical model for this problem. This shall be uploaded here in due time.
 
 ## Present Status
 
