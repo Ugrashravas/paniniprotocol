@@ -149,7 +149,7 @@ $$
 2x = x
 $$
 
-So, when $x \neq 0$
+So, when $$x \neq 0$$
 
 $$
 \therefore 2 = 1
