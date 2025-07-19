@@ -122,11 +122,13 @@ We still cannot decide on any mappings for the other 23 letters, which can rando
 we have reduced the number of possible keys from $$26!$$ to $$1200\cdot 23!$$. Now, as we keep repeating this with more and more symbols of the ciphertext, the number of ***"plausible"*** **[!!2]** keys keeps reducing. Eventually, we reach a stage where only one key is able to decipher a cryptogram.
 
 <br>
+
 ---
 
 ***This length of the ciphertext*** at which only one key among the ***set of keys we have assumed to be possible*** **[!!1]** produces a ***correct reading of the plaintext*** **[!!2]** is what Shannon calls the ***Unicity Distance***
 
 ---
+
 <br>
 
 Phew! Of course, this still applies only to invertible keys, which yajnadevam's isn't. Nevertheless, it must already be clear by now that contrary to Yajnadevam's claims, the Unicity Distance **cannot prove correctness** in terms of either:
@@ -136,11 +138,11 @@ Phew! Of course, this still applies only to invertible keys, which yajnadevam's 
 
 Rather, these are both **non-mathematical** assumptions that have to be verified using ***external tools not provided by information theory*** (and not just *Shannon's formulation of information theory*, but information theory itself in its  most general form)---The foundations based on which the rest of the information theory formulation is constructed!
 
-<div class="boxed">
+---
 
 Therefore, this entire challenge about reading the constitution as Sanskrit is merely a deflection from crticism on point **[!!2]**. The idea is to show that if the US constitution can be "deciphered as Sanskrit" using the spurious forms that Yajnadevam has employed and also pass the (naturally faulty) mathematical jugglery resulting from this fundamentally flawed treatment of "Sanskrit correctness", it would hopefully convince non-Sanskrit speakers that the "Sanskrit" used by Yajnadevam is not really Sanskrit---Because, hopefully, they accept that the US constitution is an English text and are able to appreciate the absurdity of it being readable as grammatically correct Sanskrit.
 
-</div>
+---
 
 #### The Two *Key* Limitations Elaborated *(Pun Unintended)*
 
