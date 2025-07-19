@@ -32,15 +32,15 @@ A cipher/cryptogram is a way to "encode" a message. That is, it turns a message 
 *Schematic of a general secrecy system, [Shannon 1949](https://www.andrew.cmu.edu/course/18-330/2025s/reading/shannon1949.pdf)*
 
 ### The "Message" / Plaintext
-We think of the message (plaintext) as a sequence of $n$ discrete symbols. These symbols may be letters of a language, words of a language, or even sound levels of an audio signal (as long as these sound levels have been "quantized", i.e., made discrete!).
+We think of the message (plaintext) as a sequence of $$n$$ discrete symbols. These symbols may be letters of a language, words of a language, or even sound levels of an audio signal (as long as these sound levels have been "quantized", i.e., made discrete!).
 
 Now, a language can be modelled as a process that randomly generates sequences of these symbols. However, the strings a language generates aren't completely chaotic. Mathematically, every symbol occurs with a certain definite probability
-<!-- (In fact, these probabilities can even be dependent on each other: For example, if we are blind to context, the probability of the English language randomly generating the symbol 'U' is $<3\%$; But if the language happened to have randomly generated 'Q', the probability of the next letter being 'U' is nearly $100\%$). -->
+<!-- (In fact, these probabilities can even be dependent on each other: For example, if we are blind to context, the probability of the English language randomly generating the symbol 'U' is $$<3\%$$; But if the language happened to have randomly generated 'Q', the probability of the next letter being 'U' is nearly $$100\%$$). -->
 For Sanskrit, we can assume the discrete set of symbols constituting the plaintext to be the 63 *varṇa*s described in the *śikṣā* texts, minus ones that occur completely deterministically (the 4 *yama*s, *jihvāmūlīya*, and *upadhmānīya*) and ones that don't occur in regular classical language (the 9 *pluta* vowels): resulting in *48 unique phonemes* that can occur in a random sequence in a "Sanskrit sentence".
 
-This is the frequency distribution, and hence, the *apriori* expected probabilities of individual symbols $X_i$ of plaintext.
+This is the frequency distribution, and hence, the *apriori* expected probabilities of individual symbols $$X_i$$ of plaintext.
 
-| S.No | $x$ | $P(X_i=x)$ | S.No | $x$ | $P(X_i=x)$ | S.No | $x$ | $P(X_i=x)$ |
+| S.No | $$x$$ | $$P(X_i=x)$$ | S.No | $$x$$ | $$P(X_i=x)$$ | S.No | $$x$$ | $$P(X_i=x)$$ |
 |-------|------|----------|-------|------|----------|-------|------|----------|
 | 1     | अ    | 0.1978    | 17    | ख्   | 0.013     | 33    | द्   | 0.285     |
 | 2     | आ    | 0.819     | 18    | ग्   | 0.082     | 34    | ध्   | 0.083     |
@@ -59,23 +59,23 @@ This is the frequency distribution, and hence, the *apriori* expected probabilit
 | 15    | ः    | 0.131     | 31    | त्   | 0.665     | 47    | स्   | 0.356     |
 | 16    | क्   | 0.199     | 32    | थ्   | 0.058     | 48    | ह्   | 0.107     |
 
-Of course, we've shown the table as if each $X_i$ could independently take these values with the listed probabilities, but keep in mind that the probability table for each $X_i$ will depend on all other letters $\{X_1,X_2,...,X_{i-1},X_{i+1},...X_n\}$. But this is a good starting point.
+Of course, we've shown the table as if each $$X_i$$ could independently take these values with the listed probabilities, but keep in mind that the probability table for each $$X_i$$ will depend on all other letters $$\{X_1,X_2,...,X_{i-1},X_{i+1},...X_n\}$$. But this is a good starting point.
 
-Using such probabilities of occurence of these phonemes, we define the **message** as a **string of random variables $\{X_1X_2...X_n\}$** where each $X_i$ takes a value $x$ from this set of 48 symbols.
+Using such probabilities of occurence of these phonemes, we define the **message** as a **string of random variables $$\{X_1X_2...X_n\}$$** where each $$X_i$$ takes a value $$x$$ from this set of 48 symbols.
 
-<!-- Now, the entropy $H$ of a random variable $X$ is defined as
+<!-- Now, the entropy $$H$$ of a random variable $$X$$ is defined as
 
 $$H(X) = -\sum_x P(X=x) \log_2{P(X=x)}$$
 
-For a random phoneme of Sanskrit, this works out to be $\approx4.51$ bits 
+For a random phoneme of Sanskrit, this works out to be $$\approx4.51$$ bits 
 
-Hence, $H(X_1X_2...X_n) \geq 4.51$ bits -->
+Hence, $$H(X_1X_2...X_n) \geq 4.51$$ bits -->
 
 ### The "Code" / Ciphertext
 
 The ciphertext is also a sequence of symbols, each of which belongs to a discrete set of possible symbols. The symbols of the ciphertext also follow a certain probability distribution.
 
-In our case, the ciphertexts are the inscriptions in the Indus Valley seals. The discrete set of all possible ciphertext symbols are the set of $\approx417$ glyphs identified by Mahadevan.
+In our case, the ciphertexts are the inscriptions in the Indus Valley seals. The discrete set of all possible ciphertext symbols are the set of $$\approx417$$ glyphs identified by Mahadevan.
 
 ### The "Key"
 
@@ -83,28 +83,28 @@ There exist many transformations from the plaintext space to the ciphertext spac
 
 $$E=T_iM$$
 
-Now, in order to decrypt the ciphertext $E$ and retrive the message $M$ using the key, this transformation must be reverisble:
+Now, in order to decrypt the ciphertext $$E$$ and retrive the message $$M$$ using the key, this transformation must be reverisble:
 
 $$M=T_i^{-1}E$$
 
-Each of these **reversible transformations** $T_i$'s is called a "key". The remaining theory that Shannon develops is built on this fundamental assumption.
+Each of these **reversible transformations** $$T_i$$'s is called a "key". The remaining theory that Shannon develops is built on this fundamental assumption.
 
-Clearly, in Yajnadevam's case, the transformations are not reversible. In fact, neither encryption nor decryption is unique using his key: the same message $M$ can be encoded as many different cryptograms $E$, and the same cryptogram $E$ can be deciphered as many different messages $M$. In other words, the "multiple readings" possible through Yajnadevam's key are **not** due to [puns](https://x.com/yajnadevam/status/1622280340520714243) or [other semantic considerations](https://x.com/yajnadevam/status/1882500030478860401) as he claims; They are due to the *key itself being non-reversible*.
+Clearly, in Yajnadevam's case, the transformations are not reversible. In fact, neither encryption nor decryption is unique using his key: the same message $$M$$ can be encoded as many different cryptograms $$E$$, and the same cryptogram $$E$$ can be deciphered as many different messages $$M$$. In other words, the "multiple readings" possible through Yajnadevam's key are **not** due to [puns](https://x.com/yajnadevam/status/1622280340520714243) or [other semantic considerations](https://x.com/yajnadevam/status/1882500030478860401) as he claims; They are due to the *key itself being non-reversible*.
 <!-- https://x.com/yajnadevam/status/1882459577297604766 -->
-***Shannon's formulation is not applicable*** to [many to many](https://indusscript.net/allographs) keys, as such keys are unable to produce a unique plaintext from a given ciphertext: $T_i^{-1}$ simply does not exist.
+***Shannon's formulation is not applicable*** to [many to many](https://indusscript.net/allographs) keys, as such keys are unable to produce a unique plaintext from a given ciphertext: $$T_i^{-1}$$ simply does not exist.
 
 ### Shannon's "Unicity Distance"
 
 As Shannon's original formulation cannot be applied to compute the unicity distance in this case, this problem needs to be modelled differently, expanding on his work. But before that, let us review what Shannon meant by "unicity distance" under his original formulation with uniquely reversible keys.
 
-Suppose we are able to obtain $N$ symbols of [ciphertext](#the-code--ciphertext). Suppose further that ***we know*** **[!!1]** there are $K$ different possible one to one mappings $T_i$ between ciphertext and plaintext (["keys" or "transformations"](#the-key)). Then, we can apply the inverse mapping $T_i^{-1}$ to all $N$ symbols of ciphertext to obtain $N$ symbols of plaintext. This will give us $K$ different sequences of length-$N$ plaintext (one for each mapping $T_i$).
+Suppose we are able to obtain $$N$$ symbols of [ciphertext](#the-code--ciphertext). Suppose further that ***we know*** **[!!1]** there are $$K$$ different possible one to one mappings $$T_i$$ between ciphertext and plaintext (["keys" or "transformations"](#the-key)). Then, we can apply the inverse mapping $$T_i^{-1}$$ to all $$N$$ symbols of ciphertext to obtain $$N$$ symbols of plaintext. This will give us $$K$$ different sequences of length-$$N$$ plaintext (one for each mapping $$T_i$$).
 
-Now, not all these $K$ different sequences of plaintext will be ***"correct"*** **[!!2]**. That is, a lot of these keys will produce gibberish sequences of plaintext symbols, and only some will produce sequences that can possibly be "correct" plaintext.
+Now, not all these $$K$$ different sequences of plaintext will be ***"correct"*** **[!!2]**. That is, a lot of these keys will produce gibberish sequences of plaintext symbols, and only some will produce sequences that can possibly be "correct" plaintext.
 
 #### An Illustration with an English Cipher
 
 For example, suppose we recover an English ciphertext "SGX", and we ***know*** **[!!1]** that it is a simple substitution cipher. Then, we
-can calculate the number of all possible keys as $$26!$$ (if you are confused by the [exclamation point after 26](https://en.wikipedia.org/wiki/Factorial), think of $26!$ as a shorthand for denoting the number of ways in which $26$ different objects can be arranged in a row. This is a huge number). Now, *because we* ***assumed*** the key to be a simple substitution mapping **[!!1]** and the message encoded to be English **[!!2]**, we know that:
+can calculate the number of all possible keys as $$26!$$ (if you are confused by the [exclamation point after 26](https://en.wikipedia.org/wiki/Factorial), think of $$26!$$ as a shorthand for denoting the number of ways in which $$26$$ different objects can be arranged in a row. This is a huge number). Now, *because we* ***assumed*** the key to be a simple substitution mapping **[!!1]** and the message encoded to be English **[!!2]**, we know that:
 - The plaintext must have 3 symbols
 - The 3 symbols of plaintext must be unique, and,
 - The plaintext must occur in the English dictionary **[!!2]**
@@ -121,12 +121,13 @@ We still cannot decide on any mappings for the other 23 letters, which can rando
 
 we have reduced the number of possible keys from $$26!$$ to $$1200\cdot 23!$$. Now, as we keep repeating this with more and more symbols of the ciphertext, the number of ***"plausible"*** **[!!2]** keys keeps reducing. Eventually, we reach a stage where only one key is able to decipher a cryptogram.
 
-
-<div class="boxed">
+<br>
+---
 
 ***This length of the ciphertext*** at which only one key among the ***set of keys we have assumed to be possible*** **[!!1]** produces a ***correct reading of the plaintext*** **[!!2]** is what Shannon calls the ***Unicity Distance***
 
-</div>
+---
+<br>
 
 Phew! Of course, this still applies only to invertible keys, which yajnadevam's isn't. Nevertheless, it must already be clear by now that contrary to Yajnadevam's claims, the Unicity Distance **cannot prove correctness** in terms of either:
 
