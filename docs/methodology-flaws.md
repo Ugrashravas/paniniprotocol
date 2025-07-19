@@ -12,7 +12,7 @@ nav_order: 5
 
 # What is wrong with Yajnadevam's method?
 
-As we've seen, all this gymnastics regarding the decipherment supposedly boils down to this mysterious number called "unicity distance". Let us try to understand, in simple yet precise terms, what this actually is, and how relevant it is to Yajnadevam's claim to correctness. This explanation is essentially a rephrasing of the content available [here](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) and [here](https://www.andrew.cmu.edu/course/18-330/2025s/reading/shannon1949.pdf), more tailored to our present context and geared at a more general audience. We aim to provide a clear and mathematical treatment laying bare all the holes in his method, yet without assuming much of a mathematical background.
+As we've seen, all this gymnastics regarding the decipherment supposedly boils down to this mysterious number called "unicity distance". Let us try to understand, in simple yet precise terms, what this actually is, and how relevant it is to Yajnadevam's claim to correctness. This explanation is essentially a rephrasing of the content available [here](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) and [here](https://www.andrew.cmu.edu/course/18-330/2025s/reading/shannon1949.pdf), more tailored to our present context and geared at a more general audience. We aim to provide a clear and mathematical treatment laying bare all the holes in his method, yet without assuming much of a mathematical background for the reader.
 
 ![Ugraśravas laiyng bare the holes in Yajnadevam's methodology](img/exposing_the_holes.png "Ugraśravas laiyng bare the holes in Yajnadevam's methodology")
 
@@ -38,7 +38,7 @@ Now, a language can be modelled as a process that randomly generates sequences o
 <!-- (In fact, these probabilities can even be dependent on each other: For example, if we are blind to context, the probability of the English language randomly generating the symbol 'U' is $$<3\%$$; But if the language happened to have randomly generated 'Q', the probability of the next letter being 'U' is nearly $$100\%$$). -->
 For Sanskrit, we can assume the discrete set of symbols constituting the plaintext to be the 63 *varṇa*s described in the *śikṣā* texts, minus ones that occur completely deterministically (the 4 *yama*s, *jihvāmūlīya*, and *upadhmānīya*) and ones that don't occur in regular classical language (the 9 *pluta* vowels): resulting in *48 unique phonemes* that can occur in a random sequence in a "Sanskrit sentence".
 
-This is the frequency distribution, and hence, the *apriori* expected probabilities of individual symbols $$X_i$$ of plaintext.
+<!-- This is the frequency distribution, and hence, the *apriori* expected probabilities of individual symbols $$X_i$$ of plaintext.
 
 | S.No | $$x$$ | $$P(X_i=x)$$ | S.No | $$x$$ | $$P(X_i=x)$$ | S.No | $$x$$ | $$P(X_i=x)$$ |
 |-------|------|----------|-------|------|----------|-------|------|----------|
@@ -59,9 +59,11 @@ This is the frequency distribution, and hence, the *apriori* expected probabilit
 | 15    | ः    | 0.131     | 31    | त्   | 0.665     | 47    | स्   | 0.356     |
 | 16    | क्   | 0.199     | 32    | थ्   | 0.058     | 48    | ह्   | 0.107     |
 
-Of course, we've shown the table as if each $$X_i$$ could independently take these values with the listed probabilities, but keep in mind that the probability table for each $$X_i$$ will depend on all other letters $$\{X_1,X_2,...,X_{i-1},X_{i+1},...X_n\}$$. But this is a good starting point.
+Of course, we've shown the table as if each $$X_i$$ could independently take these values with the listed probabilities, but keep in mind that the probability table for each $$X_i$$ will depend on all other letters $$\{X_1,X_2,...,X_{i-1},X_{i+1},...X_n\}$$. But this is a good starting point. -->
 
-Using such probabilities of occurence of these phonemes, we define the **message** as a **string of random variables $$\{X_1X_2...X_n\}$$** where each $$X_i$$ takes a value $$x$$ from this set of 48 symbols.
+<!-- We define the **message** as a **string of "random variables" $$\{X_1X_2...X_n\}$$** where each $$X_i$$ is a value from this set of 48 symbols. $$X_i$$ being a "random variable" roughly means that we know the probabilities of each $$X_i$$ being each of the phonemes from the set. For example, there is a $$20%$$ chance that $$X_1=अ$$, $$5%$$ chance that $$X_1=र्$$, etc. -->
+
+We define the **message** as a **sequence of symbols $$\{X_1X_2...X_n\}$$** where each $$X_i$$ is a value from this set of 48 symbols. Based on the rules of the language, each of these symbols usually occurs with a certain probabilty. For example, there is a $$20\%$$ chance that $$X_1=अ$$, $$5\%$$ chance that $$X_1=र्$$, etc.
 
 <!-- Now, the entropy $$H$$ of a random variable $$X$$ is defined as
 
@@ -73,7 +75,7 @@ Hence, $$H(X_1X_2...X_n) \geq 4.51$$ bits -->
 
 ### The "Code" / Ciphertext
 
-The ciphertext is also a sequence of symbols, each of which belongs to a discrete set of possible symbols. The symbols of the ciphertext also follow a certain probability distribution.
+The ciphertext is also a sequence of symbols $$\{Y_1Y_2...Y_n\}$$, each of which belongs to a discrete set of possible symbols. The symbols of the ciphertext also follow a certain probability distribution.
 
 In our case, the ciphertexts are the inscriptions in the Indus Valley seals. The discrete set of all possible ciphertext symbols are the set of $$\approx417$$ glyphs identified by Mahadevan.
 
@@ -126,7 +128,7 @@ we have reduced the number of possible keys from $$26!$$ to $$1200\cdot 23!$$. N
 ***This length of the ciphertext*** at which only one key among the ***set of keys we have assumed to be possible*** **[!!1]** produces a ***correct reading of the plaintext*** **[!!2]** is what Shannon calls the ***Unicity Distance***
 
 ---
-
+<br>
 Phew! Of course, this still applies only to invertible keys, which yajnadevam's isn't. Nevertheless, it must already be clear by now that contrary to Yajnadevam's claims, the Unicity Distance **cannot prove correctness** in terms of either:
 
 1. Eliminating other possible writing systems for the IVC corpus such as true alphabets, abugidas, abjads, or even syllabaries, **[!!1]** or most importantly,
