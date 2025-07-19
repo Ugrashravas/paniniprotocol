@@ -127,6 +127,8 @@ Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from 
 
 ## But Why is Yajnadevam's Math Wrong?
 
+*[See here for the main explanation](methodology-flaws.md)*
+
 This is a very pertinent question. It reminds us of one of our favorite "proofs" from high school:
 
 $$
@@ -165,7 +167,7 @@ A similar kind of mistake is happening here, with an extra layer of *double blin
 
 In fact, just like novice calculus students with the $$2 = 1$$ "proof", even professors of information theory may overlook the flaws in the method if it’s presented smoothly, unless they are shown the blatantly false final result. And this is exactly what happens: during his [presentations at various institutes](https://x.com/yajnadevam/status/1865947711880757272), Yajnadevam focuses only on the method, rarely (if ever) revealing the final linguistic outputs. This makes him claim that his method has been endorsed by the audience, even when its conclusions were hidden from and/or incomprehensible to them.
 
-We have however begun reviewing the math in detail and have already noted some fundamental flaws in Yajnadevam's methods. However, merely noting the flaws is often not satisfactory for a zealous audience, so we are attempting to formulate the correct mathematical model for this problem. This shall be uploaded here in due time.
+We have however begun reviewing the math in detail and have noted some [fundamental flaws in Yajnadevam's methods](methodology-flaws.md). As noted in [this page](methodology-flaws.md), there are still some intellectually interesting loose ends (albeit irrelevant to the problem), such as the redundancy of Pāṇinian torture. Eventually, we hope to compute and tie these loose ends together.
 
 ## Present Status
 
