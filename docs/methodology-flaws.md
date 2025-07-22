@@ -16,6 +16,21 @@ As we've seen, all this gymnastics regarding the decipherment supposedly boils d
 
 ![Ugraśravas laiyng bare the holes in Yajnadevam's methodology](img/exposing_the_holes.png "Ugraśravas laiyng bare the holes in Yajnadevam's methodology")
 
+## Page Outline
+1. [Motivation / Intuition](#motivation--intuition)
+2. [Shannon Theory of Secrecy](#the-shannon-theory-of-secrecy)
+    - [The Message / "Plaintext"](#the-message--plaintext)
+    - [The Code / "Ciphertext"](#the-code--ciphertext)
+    - [The "Key"](#the-key)
+    - [Shannon's **Unicity Distance**](#shannons-unicity-distance): Measure of ***equivocation***, not correctness!
+        - [An Illustration with an English Cipher](#an-illustration-with-an-english-cipher)
+        - [**The Two Key Limitations**](#the-two-key-limitations-elaborated-pun-unintended)
+            - [1: The Keyspace is Infinite for the Indus Corpus](#the-keyspace-is-infinite-for-the-indus-corpus)
+            - [2: The Dictionary Used Contains Exclusively Gibberish](#the-dictionary-used-contains-exclusively-gibberish)
+    - [What is **"Redundancy"**?](#what-does-this-mean-for-redundancy)
+    - [**What Does Crossing the Unicity Distance Prove?**](#what-does-yajnadevams-decipherment-crossing-the-unicity-distance-prove)
+        
+
 ## Motivation / Intuition
 
 If you have made it this far, you probably have this intuitive understanding --- When we are deciphering an encoded message by randomly guessing what each symbol of the code stands for, as we decipher more symbols of that code using our key, we get more confident that our key is correct. Intuitively, there must be some *threshold* for the number of symbols we are able to decipher, which if we cross, we can be reasonably sure of the correctness of our key.
@@ -34,7 +49,7 @@ A cipher/cryptogram is a way to "encode" a message. That is, it turns a message 
 ### The "Message" / Plaintext
 We think of the message (plaintext) as a sequence of $$n$$ discrete symbols. These symbols may be letters of a language, words of a language, or even sound levels of an audio signal (as long as these sound levels have been "quantized", i.e., made discrete!).
 
-Now, a language can be modelled as a process that randomly generates sequences of these symbols. However, the strings a language generates aren't completely chaotic. Mathematically, every symbol occurs with a certain definite probability
+Now, a language can be modelled as a process that randomly generates sequences of these symbols. However, the strings a language generates aren't completely chaotic. Mathematically, every symbol occurs with a certain definite probability.
 <!-- (In fact, these probabilities can even be dependent on each other: For example, if we are blind to context, the probability of the English language randomly generating the symbol 'U' is $$<3\%$$; But if the language happened to have randomly generated 'Q', the probability of the next letter being 'U' is nearly $$100\%$$). -->
 For Sanskrit, we can assume the discrete set of symbols constituting the plaintext to be the 63 *varṇa*s described in the *śikṣā* texts, minus ones that occur completely deterministically (the 4 *yama*s, *jihvāmūlīya*, and *upadhmānīya*) and ones that don't occur in regular classical language (the 9 *pluta* vowels): resulting in *48 unique phonemes* that can occur in a random sequence in a "Sanskrit sentence".
 
@@ -91,7 +106,7 @@ $$M=T_i^{-1}E$$
 
 Each of these **reversible transformations** $$T_i$$'s is called a "key". The remaining theory that Shannon develops is built on this fundamental assumption.
 
-Clearly, in Yajnadevam's case, the transformations are not reversible. In fact, neither encryption nor decryption is unique using his key: the same message $$M$$ can be encoded as many different cryptograms $$E$$, and the same cryptogram $$E$$ can be deciphered as many different messages $$M$$. In other words, the "multiple readings" possible through Yajnadevam's key are **not** due to [puns](https://x.com/yajnadevam/status/1622280340520714243) or [other semantic considerations](https://x.com/yajnadevam/status/1882500030478860401) as he claims; They are due to the *key itself being non-reversible*.
+Clearly, in Yajnadevam's case, the transformations are not reversible. In fact, neither encryption nor decryption is unique using his key: the same message $$M$$ can be encoded as many different cryptograms $$\{E_1, E_2, E_3, ...\}$$, and the same cryptogram $$E$$ can be deciphered as many different messages $$\{M_1, M_2, M_3, ...\}$$. In other words, the "multiple readings" possible through Yajnadevam's key are **not** due to [puns](https://x.com/yajnadevam/status/1622280340520714243) or [other semantic considerations](https://x.com/yajnadevam/status/1882500030478860401) as he claims; They are due to the *key itself being non-reversible*.
 <!-- https://x.com/yajnadevam/status/1882459577297604766 -->
 ***Shannon's formulation is not applicable*** to [many to many](https://indusscript.net/allographs) keys, as such keys are unable to produce a unique plaintext from a given ciphertext: $$T_i^{-1}$$ simply does not exist.
 
@@ -155,6 +170,7 @@ First, let us examine our assumption that the key used was a simple substitution
 
 Now, Yajnadevam would argue that his decipherment has yielded **"correct"** **[!!2]** readings using the mapping he has employed, and that alone is sufficient to vindicate his mapping. This leads us to the next assumption - What *is* a "correct" reading of the plaintext?
 
+##### The Dictionary used contains Exclusively Gibberish
 Let's review our second assumption that any sequence of plaintext strings decoded from the ciphertext must appear in the English dictionary **[!!2]**. Given a random ciphertext "SGX" without any further information, this is not a requirement even if we assume a substitution cipher - "SGX" could encode German (weg) or Sanskrit (saḥ). In fact, it is not a requirement even if we assume the language of plaintext to be English: the plaintext here could be "his" or "its", neither of which occur in English dictionaries (instead, we would find them in their base forms "he" and "it").
 
 This problem is infinitely worse in Sanskrit, which is a heavily conjugated language, and usage of conjugated forms is grammatically forbidden. To illustrate, a typical Sanskrit sentence would be:
@@ -169,17 +185,23 @@ The word forms in the _sentence_ are derived through [regular rules](https://ash
 
 Yajnadevam, however, creates his search-space from the Monier Williams dictionary, which as explained before, is a dictionary and contains only base forms that are forbidden from being *used* in Sanskrit. That is, the language that he is trying to decipher the Indus corpus as is *not Sanskrit* from the get-go. It is not possible for him to "decipher" any ciphertext ***"correctly"*** **[!!2]** as Sanskrit, since the list of strings he is comparing his plaintexts with does not contain any Sanskrit strings. This is apparent from his "decipherments", which read like random stems and roots from the dictionary joined arbitrarily, and has been rejected by Sanskrit scholars unanimously.
 
-### What does this mean for Redundancy?
+### What is "Redundancy"?
 
-We've often seen Sanskrit speakers look at Yajnadevam's decipherments and say "Pāṇini can be made to read anything this way!". The typical counter this is met with is that the redundancy of Pāṇinian rules (recently conceded by Yajnadevam to be different from Sanskrit) is not 0. While nobody has attempted to calculate any such metric related to redundancy for the type of string-mashing employed by Yajnadevam, for purely theoretical purposes, it is worth clarifying whether "Pāṇini can be made to read anything this way!" indeed translates to "Pāṇinian rules having a redundancy of 0".
+We've often seen Sanskrit speakers look at Yajnadevam's decipherments and say "Pāṇini can be made to read anything this way!". The typical counter this is met with is that the "redundancy" of Pāṇinian rules (recently conceded by Yajnadevam to be different from Sanskrit) is not 0. So, first let us understand what "redundancy" is.
 
-When Sanskrit speakers say Pāṇini can be made to read anything, they mean that *if a kind of cipher is chosen intelligently* **[!!1]**, then there exists *atleast one assignment* of Sanskrit phonemes to it, using which the corpus can be read as a tortured form of "Sanskrit" (it still does not mean that they admit any of these readings are correct Sanskrit **[!!2]** --- they are simply using the same incorrect definition as Yajnadevam for "Sanskrit"/"Pāṇinian rules" when he uses such terms to describe his concatenations of non-word strings). It is possible for there to exist *multiple assignments* of Sanskrit phonemes to the ciphertext symbols that still produce such non-word strings (termed "Sanskrit"/"Pāṇinian rules" by Yajnadevam) from a ciphertext of length $$N$$---In this case, the unicity distance will be very large. This does NOT mean that:
-1. Either of the assignments *fail* to render the ciphertext as non-word-strings, or that,
-2. Both assignments render it into *correct Sanskrit*.
+Redundancy is a parameter associated with the *language* (recall that "language" in our case is the probability distribution associated with the plaintext). It is measure of *how much* the sequence of plaintext symbols can be reduced in length (by exploiting the nature of the probability distribution) without losing information. For example, in English, as 'Q' is followed by 'U' with a probability of $100%$, a plaintext sequence containing 'QU' can be reduced by one symbol. Similarly, exploiting other rules affecting probabilities of plaintext symbols (like 'I' before 'E' except after 'C', etc), one can calculate the redundancy of the plaintext's language.
+
+Now, [as we've seen before](#the-dictionary-used-contains-exclusively-gibberish), the language of Yajnadevam's "decipherments" is **not Sanskrit**, but a bunch of non-words sampled and arbitrarily concatenated. Nobody has attempted to calculate any such metric as redundancy for this type of string-mashing. Nevertheless, for purely theoretical purposes, it is worth clarifying whether the Sanskrit speaker critique "Pāṇini can be made to read anything this way!" indeed translates to "Pāṇinian rules have a redundancy of 0".
+
+When Sanskrit speakers say Pāṇini can be made to read anything, they mean that *if a kind of cipher is chosen intelligently* **[!!1]**, then there exists *atleast one assignment* of Sanskrit phonemes to it, using which the corpus can be read as a tortured form of "Sanskrit" (it still does not mean that they admit any of these readings are correct Sanskrit **[!!2]** --- they are simply using the same *incorrect* definition as Yajnadevam for "Sanskrit"/"Pāṇinian rules" when he uses such terms to describe his concatenations of non-word strings). It is possible for there to exist *multiple assignments* of Sanskrit phonemes to the ciphertext symbols that still produce such non-word strings (termed "Sanskrit"/"Pāṇinian rules" by Yajnadevam) from a ciphertext of length $$N$$---In this case, the unicity distance will be very large. This does NOT mean that:
+1. Either of the assignments *fail* to render the ciphertext as non-word-strings which Yajnadevam calls "Sanskrit", or that,
+2. Both assignments successfully render it into *correct Sanskrit*.
 
 Being unable to cross the unicity distance simply means that the text can be tortured in **many other ways**.
 
-In conclusion, *even **IF*** the redundancy of "Pāṇinian rules" turns out to be comparable to the $$0.7$$ of real languages, Yajnadevam's claim would boil down to claiming that, under the particular types of mappings ***he*** *wants to consider*, **only** his specific assignment can read the Indus corpus as ***strings of non-words***. Thus, even if the redundancy of Pāṇinian torture were non-zero, it does not make this language "Sanskrit". It is even perhaps a sad reflection of Yajnadevam's Sanskrit knowledge (rather, lack thereof) that he is ***only*** able to make ***one*** key read meaningless non-word-strings.
+In conclusion, *even **IF*** the "redundancy" of non-word-MW-strings ("Pāṇinian rules") turns out to be comparable to the $$0.7$$ of real languages, Yajnadevam's claim would boil down to claiming that, under the particular types of mappings ***he*** *wants to consider*, **only** his specific assignment can read the Indus corpus as ***strings of non-words***. Thus, even if the redundancy of Pāṇinian torture were non-zero, it does not make this language "Sanskrit".
+
+It might even perhaps be a sad reflection of Yajnadevam's Sanskrit knowledge that he is only able to make ***one*** key read meaningless non-word-strings.
 
 ### What does Yajnadevam's "decipherment" crossing the Unicity Distance prove?
 
