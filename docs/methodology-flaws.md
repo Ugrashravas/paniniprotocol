@@ -106,7 +106,9 @@ $$M=T_i^{-1}E$$
 
 Each of these **reversible transformations** $$T_i$$'s is called a "key". The remaining theory that Shannon develops is built on this fundamental assumption.
 
-Clearly, in Yajnadevam's case, the transformations are not reversible. In fact, neither encryption nor decryption is unique using his key: the same message $$M$$ can be encoded as many different cryptograms $$\{E_1, E_2, E_3, ...\}$$, and the same cryptogram $$E$$ can be deciphered as many different messages $$\{M_1, M_2, M_3, ...\}$$. In other words, the "multiple readings" possible through Yajnadevam's key are **not** due to [puns](https://x.com/yajnadevam/status/1622280340520714243) or [other semantic considerations](https://x.com/yajnadevam/status/1882500030478860401) as he claims; They are due to the *key itself being non-reversible*.
+Clearly, in [Yajnadevam's case](https://indusscript.net/allographs), the transformations are not reversible. In fact, neither encryption nor decryption is unique using his key: the same message (say रव) can be encoded as many different cryptograms (<img src="img/symbols/va1.png" height="25"><img src="img/symbols/ra1.png" height="25">, <img src="img/symbols/va2.png" height="25"><img src="img/symbols/ra2.png" height="25">, <img src="img/symbols/va3.png" height="25"><img src="img/symbols/ra3.png" height="25">, and $$267$$ others) and the same cryptogram (say <img src="img/symbols/ta1.png" height="25"><img src="img/symbols/sa1.png" height="25">) can be deciphered as many different messages (सट, षत, स्थ, हट्ठ, and $$92$$ others).
+
+In other words, the "multiple readings" possible through Yajnadevam's key are **not** due to [puns](https://x.com/yajnadevam/status/1622280340520714243) or [other semantic considerations](https://x.com/yajnadevam/status/1882500030478860401) as he claims; They are due to the *key itself being non-reversible*.
 <!-- https://x.com/yajnadevam/status/1882459577297604766 -->
 ***Shannon's formulation is not applicable*** to [many to many](https://indusscript.net/allographs) keys, as such keys are unable to produce a unique plaintext from a given ciphertext: $$T_i^{-1}$$ simply does not exist.
 
