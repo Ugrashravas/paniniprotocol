@@ -10,7 +10,7 @@ nav_order: 5
 
 [⬅️ Back to Overview](index.md)
 
-# What is wrong with Yajnadevam's method?
+# How to fail at Philology: What is wrong with Yajnadevam's method?
 
 As we've seen, all this gymnastics regarding the decipherment supposedly boils down to this mysterious number called "unicity distance". Let us try to understand, in simple yet precise terms, what this actually is, and how relevant it is to Yajnadevam's claim to correctness. This explanation is essentially a rephrasing of the content available [here](https://cacr.uwaterloo.ca/hac/about/chap7.pdf) and [here](https://www.andrew.cmu.edu/course/18-330/2025s/reading/shannon1949.pdf), more tailored to our present context and geared at a more general audience. We aim to provide a clear and mathematical treatment laying bare all the holes in his method, yet without assuming much of a mathematical background for the reader.
 
@@ -22,6 +22,7 @@ As we've seen, all this gymnastics regarding the decipherment supposedly boils d
     - [The Message / "Plaintext"](#the-message--plaintext)
     - [The Code / "Ciphertext"](#the-code--ciphertext)
     - [The "Key"](#the-key)
+    - [Shannon's Formulation is Inapplicable for Yajnadevam's Method](#shannons-formulation-is-inapplicable-for-yajnadevams-method)
     - [Shannon's **Unicity Distance**](#shannons-unicity-distance): Measure of ***equivocation***, not correctness!
         - [An Illustration with an English Cipher](#an-illustration-with-an-english-cipher)
         - [**The Two Key Limitations**](#the-two-key-limitations-elaborated-pun-unintended)
@@ -106,6 +107,7 @@ $$M=T_i^{-1}E$$
 
 Each of these **reversible transformations** $$T_i$$'s is called a "key". The remaining theory that Shannon develops is built on this fundamental assumption.
 
+### Shannon's Formulation is Inapplicable for Yajnadevam's Method
 Clearly, in [Yajnadevam's case](https://indusscript.net/allographs), the transformations are not reversible. In fact, neither encryption nor decryption is unique using his key: the same message (say रव) can be encoded as many different cryptograms (<img src="img/symbols/va1.png" height="25"><img src="img/symbols/ra1.png" height="25">, <img src="img/symbols/va2.png" height="25"><img src="img/symbols/ra2.png" height="25">, <img src="img/symbols/va3.png" height="25"><img src="img/symbols/ra3.png" height="25">, and $$267$$ others) and the same cryptogram (say <img src="img/symbols/ta1.png" height="25"><img src="img/symbols/sa1.png" height="25">) can be deciphered as many different messages (सट, षत, स्थ, हट्ठ, and $$92$$ others).
 
 In other words, the "multiple readings" possible through Yajnadevam's key are **not** due to [puns](https://x.com/yajnadevam/status/1622280340520714243) or [other semantic considerations](https://x.com/yajnadevam/status/1882500030478860401) as he claims; They are due to the *key itself being non-reversible*.

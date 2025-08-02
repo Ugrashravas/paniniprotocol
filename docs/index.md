@@ -12,32 +12,61 @@ nav_order: 1
 Welcome to the official dashboard for the first decipherment of the United States constitution as Pāṇinian Sanskrit!
 
 <div style="text-align: center;">
-<img src="img/paniniprotocol.jpeg" alt="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" width="550">
+<img src="img/paniniprotocol_ext_3.jpg" alt="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" >
 </div>
 <br>
 
-# Background
+## TL;DR
 
-Yajnadevam ([@yajnadevam](https://x.com/yajnadevam)) has made waves online and in media by claiming to have deciphered the Indus Valley Civilization (IVC) script, a problem that has stumped linguists, epigraphers, and historians for over a century. Unlike traditional approaches rooted in archaeology and linguistics, Yajnadevam claims his method is based on cryptography and information theory, and therefore, "mathematically correct".
+- [Yajnadevam](https://x.com/yajnadevam) claims to have deciphered the Indus script as Sanskrit using cryptographic methods
+- The resulting "Sanskrit" is ungrammatical and nonsensical
+  - Anything can be force-fitted and read as fake "Sanskrit" by torturing obscure grammar rules
+- When these flaws were privately pointed out, Yajnadevam dismissed them and challenged us to "decipher" the U.S. Constitution as "Sanskrit"
+- We successfully "deciphered" the U.S. Constitution as "Sanskrit", demonstrating that his method is flawed
 
-However, Yajnadevam’s proposed readings, supposedly in Sanskrit, are riddled with ungrammatical constructions, violating basic rules of Sanskrit grammar. The issues are so fundamental that even beginner-level students of Sanskrit can recognize them as artificial and incorrect. Multiple scholars and enthusiasts have pointed this out, yet he continues to assert the correctness of his "Sanskrit" by citing obscure Vedic usages and far-fetched interpretations of Pāṇini's Aṣṭādhyāyī stretched beyond reasonable bounds.
+This site documents that demonstration, Yajnadevam's response (rather, lack thereof), and *why* the method fails.
 
-The truth is simply that, by torturing Pāṇini’s rules in this way, *anything* can be made to look like "Sanskrit." During our long private exchanges, I laid out these deficiencies clearly, and even offered constructive suggestions: I showed how his own set-intersection method could be meaningfully adapted, if the goal were actually to decipher a text written in proper Sanskrit.
+# Start Here: Contents of the Protocol
+- [Background: Who is Yajnadevam and What Did He Claim?](#background---who-is-yajnadevam-and-what-did-he-claim)
+  - [How the US Constitution Challenge Came About](#how-the-challenge-came-about)
+  - [What Counts as a Decipherment?](#what-counts-as-a-decipherment)
+    - [The Unicity Distance Turned Out to be Conveniently Flexible](unicity-history.md)
+    - [The Definition of the Challenge Entered Competitive Acrobatics](dancing-goalposts.md)
+- [Our Solution to the Challenge (Jefferson's Key)](#our-solution-to-the-challenge-jeffersons-key)
+  - [Translations](#translations)
+    - [Decipherment of the US Constitution](translation.md)
+    - [Decipherment of Arbitrary Short Words](short-words.md)
+    - [Decipherment of Nietzche's German](https://x.com/Ugrashravas/status/1943143128032309745)
+- [Why is Yajnadevam's Math Wrong?](#but-why-is-yajnadevams-math-wrong)
+- [Present Status (NEW: We've been blocked!)](#present-status)
 
-However, Yajnadevam refused to acknowledge any flaw. In fact, he issued a challenge: if my critique is valid, then I should be able to “decipher” *even the U.S. Constitution* as Sanskrit using his methods.
+
+# Background - Who is Yajnadevam and What Did He Claim?
+
+Yajnadevam ([@yajnadevam](https://x.com/yajnadevam)) has made waves online and in media by claiming to have deciphered the Indus Valley Civilization (IVC) script using cryptography and information theory. He presents the output as "Sanskrit" and asserts that it is "mathematically correct".
+
+However, Yajnadevam’s proposed readings, in "Sanskrit", violate basic grammar rules. The issues are so fundamental that even beginner-level students of Sanskrit can recognize them as artificial and incorrect. Multiple scholars and enthusiasts have pointed this out, but Yajnadevam deflects by citing obscure Vedic usages and far-fetched interpretations of Pāṇini's Aṣṭādhyāyī stretched beyond reasonable bounds.
+
+The truth is that, by torturing Pāṇini’s rules in this way, *anything* can be made to look like "Sanskrit."
+
+## How the Challenge Came About
+
+Over long private exchanges, I pointed out these deficiencies and even showed how his method could be meaningfully adapted if the goal were actually to decipher a text written in proper Sanskrit.
+
+However, Yajnadevam refused to acknowledge any flaw. Instead, he issued a challenge: if my critique is valid, then I should be able to “decipher” *even the U.S. Constitution* as "Sanskrit" using his methods.
 
 <div style="text-align: center;">
-<img src="img/challenge.jpeg" alt="YD's Challenge" title="YD's challlenge" width="400">
+<img src="img/challenge.jpeg" alt="Yajnadevam's challenge to dismiss issues with his method that were pointed out in private" title="Yajnadevam's challenge to dismiss issues with his method that were pointed out in private" width="300">
 </div>
 <br>
 
 ... and, that’s exactly what I’ve done.
 
-This isn’t just a rebuttal. It’s a demonstration of how methodological abuse can produce false “decipherments,” and how mathematical jargon can be used to dazzle rather than to clarify.
+This site isn’t just a rebuttal. It’s a demonstration of how methodological abuse can produce false “decipherments,” and how mathematical jargon can be used to dazzle rather than to clarify.
 
-# Statement of the Challenge
+## What Counts as a Decipherment?
 
-What counts as *deciphering* the U.S. Constitution? For the purposes of this demonstration, we shall adopt the **same metric** that Yajnadevam uses to claim that his Indus Valley Civilization (IVC) decipherment is valid: **unicity distance**.
+What exactly counts as *deciphering* the U.S. Constitution? For the purposes of this demonstration, we adopt the **same metric** that Yajnadevam uses to claim validity for his IVC Script decipherment: **unicity distance**.
 
 From his own website:
 
@@ -45,22 +74,14 @@ From his own website:
 > The correctness of the decipherment is judged simply by being able to read the corpus beyond the unicity distance. Even if all sign values were derived in a dream, thats the only thing that matters."  
 > — [Yajnadevam / ScriptDerivation](https://github.com/yajnadevam/ScriptDerivation)
 
-Thus, to demonstrate a successful “decipherment” of the U.S. Constitution, we must simply **cross this unicity distance** — by Yajnadevam’s own criterion.
+So, by his own criterion, our task is simple: **cross the unicity distance**, and the decipherment is "valid." (**Note:** As we have [explained here](methodology-flaws.md), Unicity Distance is not a metric for correctness. i.e., Yajnadevam's claim to correctness is flawed at the outset.)
 
-## The Highly Flexible and Convenient Nature of the Unicity Distance
-Now, the unicity distance proposed by YD keeps changing as more and more symbols of the constitution are deciphered. The history of these formulae for calculating unicity distance has therefore been shifted to [its own page](unicity-history.md).
+Nevertheless, even after we had played by Yajnadevam's own rules,
+1. The [**Definition of the Challenge Entered Competitive Acrobatics**](dancing-goalposts.md) immediately, and we were asked to "prove" all sorts of irrelevant things to avoid addressing the central point, Unicity Distance.
 
-We shall soon also include a page explaining what unicity distance actually is, in a comprehensible way without dazzling the audience with jargon. However, for the moment, please bear with us as we provide only the formulae without a clear definition of the concept.
+2. In the rare instance that the Unicity Distance was addressed, [**It Turned Out to be Conveniently Flexible**](unicity-history.md) and kept changing as more of the Constitution was deciphered. No final value has been settled on by Yajnadevam till date.
 
-## The Challenge Definition Has Entered Competitive Acrobatics
-
-While the original challenge is what is described here, the definitions turned out to be more suggestions than rules. What followed was a remarkable display of post-hoc edits, mid-air redefinitions, and increasingly creative pivots.
-
-Enjoy the highlights of the goalpost acrobatics [here](dancing-goalposts.md)!
-
-
-
-# Latin to Sanskrit Phoneme Class Mapping (Jefferson's Key)
+# Our Solution to the Challenge ("Jefferson's Key")
 
 Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping from **Latin letters to Sanskrit phonemes**.  Luckily, such a key was revealed by Thomas Jefferson in a dream to Ugraśravas:
 
@@ -103,7 +124,7 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
   </tbody>
 </table>
 -->
-
+## Latin to Sanskrit Phoneme Class Mapping
 <div style="text-align: center;">
 <img src="img/brahmimap.png" alt="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" title="Latin signs mapped to their Brahmi equivalents and acrophonic sign names" width="550">
 </div>
@@ -115,14 +136,14 @@ Now, to begin our "decipherment" of the U.S. Constitution, we require a mapping 
 
 **NOTE 3:** The scheme used to read the constitution using this table is much stricter and more conservative than Yajnadevam's, as we do not aribtrarily double consonants or arbitrarily insert *visarga*s and *anusvāra*s.
 
-# Translations
+## Translations
 
 
 The decipherment and translation of the [United States constitution are available here](translation.md).
 
-The decipherment and translation of [short English words are available here](short-words.md).
+Once this was complete, we were challenged to decipher arbitrary short words. The decipherment and translation of these [short English words are available here](short-words.md).
 
-Additionally, we have also deciphered Nietzche's "Also sprach Zarathustra" from the original German beyond the (original) unicity distance. This will be uploaded here in due time.
+Additionally, we have also [deciphered Twitter brainrot](https://x.com/Ugrashravas/status/1942632943312146555) and [Nietzche's "Also sprach Zarathustra" from the original German](https://x.com/Ugrashravas/status/1943143128032309745) beyond the (original) unicity distance.
 
 
 # But Why is Yajnadevam's Math Wrong?
@@ -167,13 +188,27 @@ A similar kind of mistake is happening here, with an extra layer of *double blin
 
 In fact, just like novice calculus students with the $$2 = 1$$ "proof", even professors of information theory may overlook the flaws in the method if it’s presented smoothly, unless they are shown the blatantly false final result. And this is exactly what happens: during his [presentations at various institutes](https://x.com/yajnadevam/status/1865947711880757272), Yajnadevam focuses only on the method, rarely (if ever) revealing the final linguistic outputs. This makes him claim that his method has been endorsed by the audience, even when its conclusions were hidden from and/or incomprehensible to them.
 
-We have however begun reviewing the math in detail and have noted some [fundamental flaws in Yajnadevam's methods](methodology-flaws.md). As noted in [this page](methodology-flaws.md), there are still some intellectually interesting loose ends (albeit irrelevant to the problem), such as the redundancy of Pāṇinian torture. Eventually, we hope to compute and tie these loose ends together.
+We have however begun reviewing the math in detail and have noted some [fundamental flaws in Yajnadevam's methods](methodology-flaws.md). As noted in the page, there are still some intellectually interesting loose ends (albeit irrelevant to the problem), such as the redundancy of Pāṇinian torture. If time permits, we might compute and tie these loose ends together in the (far) future.
 
 # Present Status
 
-Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we don't expect him to simply concede; We anticipate he will start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. F̶o̶r̶ n̶o̶w̶, t̶h̶e̶ r̶e̶d̶ m̶a̶r̶k̶e̶r̶ s̶t̶a̶n̶d̶s̶ a̶l̶o̶n̶e̶, b̶u̶t̶ w̶e̶'r̶e̶ n̶o̶t̶ b̶e̶t̶t̶i̶n̶g̶ i̶t̶'l̶l̶ s̶t̶a̶y̶ t̶h̶a̶t̶ w̶a̶y̶.
+Eventually, rather than respond to any of the arguments, [Yajnadevam chose to block us](https://x.com/Ugrashravas/status/1950604010765099145) — presumably to avoid further problematic questionss.
 
-As predicted, the red marker has moved **2** times as of date. The history of these changes is recorded [here](unicity-history.md). More interestingly, the challenge itself underwent metamorphosis multiple times over, and this history is recorded [here](dancing-goalposts.md).
+This remains the only definitive action he has taken in response to the demonstration.
+
+<div style="text-align: center;">
+<img src="img/victory.png" alt="Ugraśravas raising his vajra in victory" title="Ugraśravas raising his vajra in victory" width="550">
+</div>
+
+<br>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Absolute W<br><br>Case closed folks, <a href="https://twitter.com/yajnadevam?ref_src=twsrc%5Etfw">@yajnadevam</a> has no further responses<a href="https://t.co/wNBMD4946m">https://t.co/wNBMD4946m</a> might undergo some final aesthetic updates &amp; perhaps include a more detailed chronological curation of this run from start to end <a href="https://t.co/BGxuBBgAU9">pic.twitter.com/BGxuBBgAU9</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1950604010765099145?ref_src=twsrc%5Etfw">July 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Unicity Distance Live Update
+
+Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we didn't expect him to simply concede; We anticipated he would start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. ~~For now, the red marker stands alone, but we're not betting it'll stay that way~~.
+
+As predicted, the red marker has moved **2** times as of date. The history of these changes is recorded [here](unicity-history.md).
 
 As of date, the unicity distance is **475**, and **508+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
 

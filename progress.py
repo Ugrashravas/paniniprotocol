@@ -12,7 +12,7 @@ max_ud = max(unicity_distances)
 # === BUILD MARKERS ===
 marker_divs = []
 for ud in unicity_distances:
-    color = "red" if ud == max_ud else "pink"  # red, pink
+    color = "red" if ud == unicity_distances[-1] else "pink"  # red, pink
     percent = ud / total_target_symbols * 100
     marker_div = f'''  <!-- Unicity Distance marker -->
   <div style="
@@ -34,7 +34,7 @@ now = datetime.datetime.now().strftime("%Y-%b-%d, %H:%M (GMT +5:30)")
 # === FINAL HTML BLOCK ===
 html_output = f'''
 
-As of date, the unicity distance is **{max_ud}**, and **{translated_symbols}+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
+As of date, the unicity distance is **{unicity_distances[-1]}**, and **{translated_symbols}+** symbols have been translated (green bar). This may be outdated — see the [translation page](translation.md) for live numbers.
 
 <h3>Progress in first {total_target_symbols} symbols</h3>
 
