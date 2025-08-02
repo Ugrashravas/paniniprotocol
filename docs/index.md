@@ -12,7 +12,7 @@ nav_order: 1
 Welcome to the official dashboard for the first decipherment of the United States constitution as Pāṇinian Sanskrit!
 
 <div style="text-align: center;">
-<img src="img/paniniprotocol_ext_3.jpg" alt="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" >
+<img src="img/paniniprotocol_ext.jpg" alt="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" title="Ugraśravas smiting the dragon of garbled speech with a lightning of pure speech, weapon of the first grammarian Indra" >
 </div>
 <br>
 
