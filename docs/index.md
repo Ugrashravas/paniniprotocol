@@ -206,7 +206,7 @@ This remains the only definitive action he has taken in response to the demonstr
 
 ## Unicity Distance Live Update
 
-Although we have deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we didn't expect him to simply concede; We anticipated he would start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. ~~For now, the red marker stands alone, but we're not betting it'll stay that way~~.
+Although we had deciphered the US constitution beyond unicity distance using the same formula Yajnadevam has used in his draft, we didn't expect him to simply concede; We anticipated he would start adjusting and negotiating the unicity distance upward. In that spirit, we've visualized the history of UD values: earlier ones are shown in pink, while the most recent value provided by Yajnadevam appears in red. ~~For now, the red marker stands alone, but we're not betting it'll stay that way~~.
 
 As predicted, the red marker has moved **2** times as of date. The history of these changes is recorded [here](unicity-history.md).
 
