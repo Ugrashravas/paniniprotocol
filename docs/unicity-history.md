@@ -71,8 +71,10 @@ Hence, if our "decipherment" of the U.S. Constitution produced *coherent output 
 
 Immediately after we crossed **46** symbols, it was pointed out by one of his followers that a "better formula" was available in his discord server:
 <!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Personally I have some doubts on the unicity distance calculation, it seemed off when I read it in your original thread. But it would require me to brush up on the fundamentals and work is going to keep me busy for a couple of weeks<br><br>Yes I saw your argument that you used YD&#39;s…</p>&mdash; The Butter Thief (@TheButterThief) <a href="https://twitter.com/TheButterThief/status/1942934255320916056?ref_src=twsrc%5Etfw">July 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  -->
+<div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">the discord is already public dude, i am not trying to hide anything, anyways here goes <a href="https://t.co/1RgZ7zNndV">pic.twitter.com/1RgZ7zNndV</a></p>&mdash; The Butter Thief (@TheButterThief) <a href="https://twitter.com/TheButterThief/status/1942948814710616119?ref_src=twsrc%5Etfw">July 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+</div>
+<br>
 
 The primary distinguishing feature of this approach is that it actually considers all possible phoneme-combinations that can act as the key, as compared to the previous formula which arbitrarily weighted phoneme classes linearly thus missing the exponential growth in keyspace due to many-many mappings. Even here, one of the formulae used his subjectively reduced list of ciphertext symbols.
 
@@ -90,7 +92,10 @@ And sure enough, we crossed these distances as well.
 
 Based on the latest exchange, we expect a second revision of unicity distance:
 
+<div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">However, I anticipate some flaws in your yet-to-come formula already:<br>#1 will be some extra term bce I&#39;ve &quot;included vowels /e/ /ai/ and non-vowel /ay/ in the same class&quot;. However, /ay/ is grammatically the SAME as dipthong /e/, as is explicitly mentioned in sUtra eco&#39;yavAyAvaH.</p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1944786561943662935?ref_src=twsrc%5Etfw">July 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+<br>
 
 ~~It is yet to be seen by how much this will increase the unicity distance.~~
 
