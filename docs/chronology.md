@@ -3,7 +3,7 @@
 This is the full account of the Pāṇini Protocol: a scholarly encounter that began in good faith, passed the fire of public challenge, and ended in evasive silence. It is a case study in how a **publicity-driven claim**, never meant to withstand academic scrutiny, folds when it meets formal critique.
 
 ## Prologue: "Perhaps This Is All A Misunderstanding"
-***<div style="text-align: right"> December 2024 - February 2025 </div>***
+***December 2024 - February 2025***
 
 Early reactions to Yajnadevam’s claims were cautious, even generous. What he prsented as "Sanskrit" showed clear grammatical faults — but many assumed the information theoretic basis was sound.
 
@@ -29,7 +29,7 @@ To the second<!-- ([which others had also pointed out](https://x.com/SebastianNe
 Instead, we took it seriously.
 
 ### The Seeds of the Pāṇini Protocol
-***<div style="text-align: right"> 07 July 2025 </div>***
+***07 July 2025***
 
 We applied his method (including his own phoneme classing, ungrammatical constructs, and reliance on unicity distance) to the U.S. Constitution. We used the key revealed to us by Thomas Jefferson in a dream to decode and translate the United States Constitution well past the unicity dsitance he set [at the time](unicity-history.md):
 
@@ -44,7 +44,7 @@ Thus began the **Pāṇini Protocol**: which would soon become a full-scale demo
 
 ## Chapter 1: Denial
 ### Initial Skepticism and Bewilderment
-***<div style="text-align: right"> 08 July 2025 </div>***
+***08 July 2025***
 
 The initial reaction from Yajnadevam and his supporters was one of confusion and disbelief, a kind of collective bewilderment. For reasons still unclear, they were unable to process the fact that a dhoti-clad Pikachu had received a magic phoneme key from Thomas Jefferson in a dream and then used it to decipher the U.S. Constitution.
 
@@ -81,7 +81,7 @@ Yajnadevam himself, was apparently [on vacation](https://x.com/yajnadevam/status
 The lowercase complaint was a complete red herring. The ciphertext under consideration was [entirely uppercase](https://x.com/Ugrashravas/status/1942603213213163534) to begin with (in scriptio continua too, like the Indus seals), making the objection moot. The "LL to A" point was (apart from being flatly false) equally hollow, given his own decipherment tolerates far [sloppier symbol clustering](https://x.com/Ugrashravas/status/1942603919034589495). In hindsight, this irrelevant objection, and a [misrepresentation of my position as "a challenge to information theory"](https://x.com/yajnadevam/status/1942610250433191961) foreshadowed [the wave of goalpost-shifting](dancing-goalposts.md) that would soon follow.
 
 ### Still Unconvinced?! Sigh...
-***<div style="text-align: right"> 09-10 July 2025 </div>***
+***09-10 July 2025***
 
 While Yajnadevam was still on vacation and hadn’t yet read the decipherment, his [followers remained unconvinced](https://x.com/inynor36/status/1942931336819540440). They couldn’t bring themselves to believe that my key was [actually revealed in a dream](https://x.com/Ugrashravas/status/1942935760207770091) and hence magical — perhaps imagining that I had brute-forced some "algorithm" on a "dataset" or whatever else made it easier to sleep at night. At first, we were responding to these doubts individually:
 
@@ -98,7 +98,7 @@ But soon, this became tedious and frankly, beneath us. So we went straight for t
 <br>
 
 ### Initial "Rebuttals" That Exposed the Blueprint
-***<div style="text-align: right"> 09-10 July 2025 </div>***
+***09-10 July 2025***
 
 Two days after the decipherment, the responses began to shift from knee-jerk dismissal to actual engagement. But most critiques ended up questioning assumptions that were straight out of Yajnadevam’s own method — effectively dismantling the very thesis they were trying to defend.
 
@@ -125,7 +125,7 @@ In parallel, some began pointing out what they saw as glaring flaws: the key had
 <br>
 
 ### The Challenge Ascends to Mythical Status
-***<div style="text-align: right"> 10 July 2025 </div>***
+***10 July 2025***
 
 At this point, rather than admit the demonstration succeeded, Yajnadevam launched into monologue:
 
