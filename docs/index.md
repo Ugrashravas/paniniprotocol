@@ -188,9 +188,11 @@ A similar kind of mistake is happening here, with an extra layer of *double blin
 
 In fact, just like novice calculus students with the $$2 = 1$$ "proof", even professors of information theory may overlook the flaws in the method if it’s presented smoothly, unless they are shown the blatantly false final result. And this is exactly what happens: during his [presentations at various institutes](https://x.com/yajnadevam/status/1865947711880757272), Yajnadevam focuses only on the method, rarely (if ever) revealing the final linguistic outputs. This makes him claim that his method has been endorsed by the audience, even when its conclusions were hidden from and/or incomprehensible to them.
 
-We have however begun reviewing the math in detail and have noted some [fundamental flaws in Yajnadevam's methods](methodology-flaws.md). As noted in the page, there are still some intellectually interesting loose ends (albeit irrelevant to the problem), such as the redundancy of Pāṇinian torture. If time permits, we might compute and tie these loose ends together in the (far) future.
+We have however reviewed the math in detail and have noted some [fundamental flaws in Yajnadevam's methods](methodology-flaws.md). As noted in the page, there are still some intellectually interesting loose ends (albeit irrelevant to the problem), such as the redundancy of Pāṇinian torture. If time permits, we might compute and tie these loose ends together in the (far) future.
 
 # Present Status
+
+We have begun documenting the complete saga [in this page](chronology.md).
 
 Eventually, rather than respond to any of the arguments, [Yajnadevam chose to block us](https://x.com/Ugrashravas/status/1950604010765099145) — presumably to avoid further problematic questionss.
 
@@ -202,7 +204,10 @@ This remains the only definitive action he has taken in response to the demonstr
 
 <br>
 
+<div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Absolute W<br><br>Case closed folks, <a href="https://twitter.com/yajnadevam?ref_src=twsrc%5Etfw">@yajnadevam</a> has no further responses<a href="https://t.co/wNBMD4946m">https://t.co/wNBMD4946m</a> might undergo some final aesthetic updates &amp; perhaps include a more detailed chronological curation of this run from start to end <a href="https://t.co/BGxuBBgAU9">pic.twitter.com/BGxuBBgAU9</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1950604010765099145?ref_src=twsrc%5Etfw">July 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+<br>
 
 ## Unicity Distance Live Update
 
