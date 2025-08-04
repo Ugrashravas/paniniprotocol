@@ -1,3 +1,8 @@
+---
+title: Chronology
+nav_order: 5
+---
+
 # The Pāṇini Protocol: The Complete Saga from Challenge to Block
 
 This is the full account of the Pāṇini Protocol: a scholarly encounter that began in good faith, passed the fire of public challenge, and ended in evasive silence. It is a case study in how a **publicity-driven claim**, never meant to withstand academic scrutiny, folds when it meets formal critique.
