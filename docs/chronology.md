@@ -49,6 +49,7 @@ Thus began the **Pāṇini Protocol**: which would soon become a full-scale demo
 <br>
 
 ## Chapter 1: Denial
+***08-14 July 2025***
 ### 1.1 Initial Skepticism and Bewilderment
 ***08 July 2025***
 
@@ -76,6 +77,7 @@ To quell [such doubts](https://x.com/NanaSiddharth/status/1942550539075739675) a
 <br>
 
 ### 1.2 Early Foreshadowing
+***08 July 2025***
 
 Yajnadevam himself, was apparently [on vacation](https://x.com/yajnadevam/status/1942969902287175990) and had [not read my decipherment yet](https://x.com/yajnadevam/status/1942958381238796782). Nevertheless, he quickly surfaced to confidently announce that my unicity distance was wrong:
 
@@ -87,7 +89,7 @@ Yajnadevam himself, was apparently [on vacation](https://x.com/yajnadevam/status
 The lowercase complaint was a complete red herring. The ciphertext under consideration was [entirely uppercase](https://x.com/Ugrashravas/status/1942603213213163534) to begin with (in scriptio continua too, like the Indus seals), making the objection moot. The "LL to A" point was (apart from being flatly false) equally hollow, given his own decipherment tolerates far [sloppier symbol clustering](https://x.com/Ugrashravas/status/1942603919034589495). In hindsight, this irrelevant objection, and a [misrepresentation of my position as "a challenge to information theory"](https://x.com/yajnadevam/status/1942610250433191961) foreshadowed [the wave of goalpost-shifting](dancing-goalposts.md) that would soon follow.
 
 ### 1.3 Still Unconvinced?! Sigh...
-***09-10 July 2025***
+***10 July 2025***
 
 While Yajnadevam was still on vacation and hadn’t yet read the decipherment, his [followers remained unconvinced](https://x.com/inynor36/status/1942931336819540440). They couldn’t bring themselves to believe that my key was [actually revealed in a dream](https://x.com/Ugrashravas/status/1942935760207770091) and hence magical—perhaps imagining that I had brute-forced some "algorithm" on a "dataset" or whatever else made it easier to sleep at night. At first, we were responding to these doubts individually:
 
@@ -104,7 +106,7 @@ But soon, this became tedious and frankly, beneath us. So we went straight for t
 <br>
 
 ### 1.4 Initial "Rebuttals" That Exposed the Blueprint
-***09-10 July 2025***
+***10 July 2025***
 
 Two days after the decipherment, the responses began to shift from knee-jerk dismissal to actual engagement. But most critiques ended up questioning assumptions that were straight out of Yajnadevam’s own method—effectively dismantling the very thesis they were trying to defend.
 
@@ -150,7 +152,6 @@ Yet, our method turned out to be effective enough to [trigger a meltdown](https:
 <br>
 
 ### 1.6 Final Stages of Confusion
-
 ***13-14 July 2025***
 
 
@@ -232,8 +233,9 @@ And then, this AI-generated masterpiece (still not sure why Jefferson is the jan
 Indeed, the hypothetical theories formulated here were rendered irrelevant once we published [concrete counter evidence](short-words.md).
 
 ## Chapter 3: Bargaining
-***16-17 July 2025***
+***16-19 July 2025***
 ### 3.1 Sorry, I Don’t Speak Sanskrit
+***16 July 2025***
 
 On the same day, we witnessed a fascinating transition state: the tail-end of anger bleeding into the soft beginnings of bargaining. Yajnadevam floated a curious plea: he couldn’t have twisted Pāṇini’s rules... because he doesn’t know Pāṇini. That level of grammatical acrobatics, he insisted, was only possible by a [professional Pāṇini assassin type dude](https://x.com/yajnadevam/status/1945615379222376841) *(sic)* such as [Eeshan](https://x.com/F24111998) *(sic)*:
 
@@ -253,6 +255,7 @@ If anything, this admission only [underscores the problem](https://x.com/Ugrashr
 <br>
 
 ### 3.2 Your Key is *Too* Effective!
+***16 July 2025***
 
 #### When The Concept Of "Glides" Glides Over Your Head
 
@@ -280,6 +283,7 @@ At this point, Yajnadevam was pivoting in every direction from phoneme clusters 
 Instead of answering, he deflected with yet another [strawman, claiming we were out to **falsify Shannon's Information Theory** itself](https://x.com/yajnadevam/status/1945592813204152631).
 
 ### 3.3 Slowly Coming To Terms?
+***17 July 2025***
 
 By now, the outbursts had subsided, and bargaining took a more refined shape:
 
@@ -297,6 +301,7 @@ He promised to "precisely compute" the unicity distances in the future. As of no
 Whether he realized it or not, this was textbook *bargaining*: a careful repackaging of the debate to control the fallout, while trying to delay or defer the consequences.
 
 ### 3.4 A Small But Important Concession
+***19 July 2025***
 
 While still trying to deflect from our broader challenge, Yajnadevam began digging into specific words from our decipherment—hoping, perhaps, to catch a mistranslation that would undermine the whole.
 
