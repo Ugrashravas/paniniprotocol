@@ -110,7 +110,7 @@ For example, Yajnadevam claimed that my unicity distance was "[much larger than 
 <br>
 
 
-Still unwilling to accept that Jefferson’s Key had actually worked, Yajnadevam tried to move the goalpost by demanding that my method work for [any Latin alphabet text](https://x.com/yajnadevam/status/1942957670098489719). Meanwhile, some of his followers began innovating novel approaches to deflect from the results, like questioning the [*entropy* of the translations](https://x.com/NanaSiddharth/status/1943356218275193150) and demanding [Sanskrit be reverse-translated with my key](https://x.com/SaintShitposter/status/1942864243138978049), while others admitted to [lacking technical competence in arithmetic](https://x.com/Ugrashravas/status/1942924272030138817):
+Still unwilling to accept that Jefferson’s Key had actually worked, Yajnadevam tried to move the goalpost by demanding that my method work for [any Latin alphabet text](https://x.com/yajnadevam/status/1942957670098489719). Meanwhile, some of his followers began innovating novel approaches to deflect from the results, like questioning the [*entropy* of the translations](https://x.com/NanaSiddharth/status/1943356218275193150) and demanding [Sanskrit be reverse-translated with my key](https://x.com/SaintShitposter/status/1942864243138978049), while others admitted to [lacking technical competence in arithmetic](https://x.com/ImperiumHindu/status/1942896544795201765):
 
 <div style="text-align: center;">
   <img src="img/division.png" alt="division error tweet" width="400">
@@ -142,3 +142,5 @@ Yet, our method turned out to be effective enough to [trigger a meltdown](https:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GPT had a better idea 😛 <a href="https://t.co/ENAg64lu3b">https://t.co/ENAg64lu3b</a> <a href="https://t.co/CmkVNstM1r">pic.twitter.com/CmkVNstM1r</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1943542389282329060?ref_src=twsrc%5Etfw">July 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
+
+***To be continued...***
