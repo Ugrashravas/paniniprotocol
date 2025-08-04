@@ -211,9 +211,9 @@ Of course, we would soon show that all these words can be deciphered using Jeffe
 </div>
 <br>
 
-And with this, all doubts regarding the efficacy of Jefferson's key were cleared. Its omnipotence was now too obvious to ignore. Resistance was futile. Our Unicity Distance was correct*, our grammar flawless*, translations meaningful*, and there did not remain a single word that was not readable*—even outside the Constitution! At this point, he already seemed to have [given up on hard calculations of unicity distance](https://x.com/Ugrashravas/status/1945177855446401259) and shifted to throwing around jargon. Naturally, this led the emotional arc to stage two.
+And with this, all doubts regarding the efficacy of Jefferson's key were cleared. Its omnipotence was now too obvious to ignore. Resistance was futile. Our Unicity Distance was correct\*, our grammar flawless\*, translations meaningful\*, and there did not remain a single word that was not readable\*—even outside the Constitution! At this point, he already seemed to have [given up on hard calculations of unicity distance](https://x.com/Ugrashravas/status/1945177855446401259) and shifted to throwing around jargon. Naturally, this led the emotional arc to stage two.
 
-**As "correct", "flawless", "meaningful", and "readable" as his own, of course* 
+*\*As "correct", "flawless", "meaningful", and "readable" as his own, of course* 
 
 ## Chapter 2: Anger
 ***15-16 July 2025***
