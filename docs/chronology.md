@@ -5,7 +5,7 @@ This is the full account of the Pāṇini Protocol: a scholarly encounter that b
 ## Prologue: "Perhaps This Is All A Misunderstanding"
 ***December 2024 - February 2025***
 
-Early reactions to Yajnadevam’s claims were cautious, even generous. What he prsented as "Sanskrit" showed clear grammatical faults — but many assumed the information theoretic basis was sound.
+Early reactions to Yajnadevam’s claims were cautious, even generous. What he prsented as "Sanskrit" showed clear grammatical faults—but many assumed the information theoretic basis was sound.
 
 We reached out in good faith:
 
@@ -16,13 +16,13 @@ We reached out in good faith:
 
 Despite the long discussions in these threads [[1]](https://x.com/Ugrashravas/status/1874494292301131909), [[2]](https://x.com/Ugrashravas/status/1875129521202229617) (which were met with increasingly dismissive replies) we continued the conversation in private. There, we pointed out several key issues: the language lacked a consistent case system and verbal conjugation, phoneme frequencies resembled *no* form of Sanskrit ([as later rigorously shown](https://x.com/khoomeik/status/1882058141145403817) by [@khoomeik](https://x.com/khoomeik)), and the translations lacked grammar.
 
-Upon reviewing his method, we found his "dictionary" turned out to be just a [list of stems — not actual words](methodology-flaws.md#the-dictionary-used-contains-exclusively-gibberish). We urged him to try using a real one.
+Upon reviewing his method, we found his "dictionary" turned out to be just a [list of stems—not actual words](methodology-flaws.md#the-dictionary-used-contains-exclusively-gibberish). We urged him to try using a real one.
 
 To summarize, our core claim was:
-1. Yajnadevam's outputs aren’t Sanskrit — they violate basic grammar
+1. Yajnadevam's outputs aren’t Sanskrit—they violate basic grammar
 2. His method is so unconstrained that *anything* can be force-fitted as ungrammatical "Sanskrit"
 
-To the first point, he replied ["You don't know what the Harappans wrote"](https://x.com/yajnadevam/status/1874454050026230135). This dodges the issue. If the result is claimed to be Sanskrit, it must follow Sanskrit grammar — not hypothetical Harappan usage.
+To the first point, he replied ["You don't know what the Harappans wrote"](https://x.com/yajnadevam/status/1874454050026230135). This dodges the issue. If the result is claimed to be Sanskrit, it must follow Sanskrit grammar—not hypothetical Harappan usage.
 
 To the second<!-- ([which others had also pointed out](https://x.com/SebastianNehrd2/status/1897554610510029200)) -->, he replied with a dismissive challenge: ["Decipher the US Constitution as Sanskrit"](https://x.com/yajnadevam/status/1893915880121069864). This was likely meant to shut us up.
 
@@ -40,7 +40,7 @@ We applied his method (including his own phoneme classing, ungrammatical constru
 
 The results looked exactly like his: ungrammatical Sanskrit, vague stems, and a total absence of structure. In other words, it worked.
 
-Thus began the **Pāṇini Protocol**: which would soon become a full-scale demonstration that any text, when tortured through his method, can yield "Sanskrit" that’s just as ungrammatical as his original. What follows is a surprisingly textbook progression through all five stages of grief, triggered by [Jefferson's Key](index.md#our-solution-to-the-challenge-jeffersons-key) working too well.
+Thus began the **Pāṇini Protocol**: which would soon become a full-scale demonstration that any text, when tortured through his method, can yield "Sanskrit" that’s just as ungrammatical as his original. What follows is a surprisingly textbook progression through all [five stages of grief](https://en.wikipedia.org/wiki/Five_stages_of_grief), triggered by [Jefferson's Key](index.md#our-solution-to-the-challenge-jeffersons-key) working too well.
 
 
 <div style="text-align: center;">
@@ -89,7 +89,7 @@ The lowercase complaint was a complete red herring. The ciphertext under conside
 ### Still Unconvinced?! Sigh...
 ***09-10 July 2025***
 
-While Yajnadevam was still on vacation and hadn’t yet read the decipherment, his [followers remained unconvinced](https://x.com/inynor36/status/1942931336819540440). They couldn’t bring themselves to believe that my key was [actually revealed in a dream](https://x.com/Ugrashravas/status/1942935760207770091) and hence magical — perhaps imagining that I had brute-forced some "algorithm" on a "dataset" or whatever else made it easier to sleep at night. At first, we were responding to these doubts individually:
+While Yajnadevam was still on vacation and hadn’t yet read the decipherment, his [followers remained unconvinced](https://x.com/inynor36/status/1942931336819540440). They couldn’t bring themselves to believe that my key was [actually revealed in a dream](https://x.com/Ugrashravas/status/1942935760207770091) and hence magical—perhaps imagining that I had brute-forced some "algorithm" on a "dataset" or whatever else made it easier to sleep at night. At first, we were responding to these doubts individually:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">These words are about Aśvamedha ritual &amp; metrical intricacies of Ṛgveda <a href="https://t.co/tO61IE3Mdt">pic.twitter.com/tO61IE3Mdt</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1943152902245056722?ref_src=twsrc%5Etfw">July 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -106,7 +106,7 @@ But soon, this became tedious and frankly, beneath us. So we went straight for t
 ### Initial "Rebuttals" That Exposed the Blueprint
 ***09-10 July 2025***
 
-Two days after the decipherment, the responses began to shift from knee-jerk dismissal to actual engagement. But most critiques ended up questioning assumptions that were straight out of Yajnadevam’s own method — effectively dismantling the very thesis they were trying to defend.
+Two days after the decipherment, the responses began to shift from knee-jerk dismissal to actual engagement. But most critiques ended up questioning assumptions that were straight out of Yajnadevam’s own method—effectively dismantling the very thesis they were trying to defend.
 
 For example, Yajnadevam claimed that my unicity distance was "[much larger than the constitution, perhaps much much larger](https://x.com/yajnadevam/status/1942967993727685117)", without providing a number or even a formula. Ironically, I had computed the unicity distance [using the same method in his draft](https://x.com/Ugrashravas/status/1942958003860435445), making the objection an inadvertent admission that his formula was flawed. He would later concede this in opaque terms:
 
@@ -156,7 +156,7 @@ Yet, our method turned out to be effective enough to [trigger a meltdown](https:
 
 By now, Yajnadevam's followers had already [scored multiple self-goals](#initial-rebuttals-that-exposed-the-blueprint). It was only fitting that YD would follow suit.
 
-He began by complaining about the [phoneme groupings in our key](https://x.com/yajnadevam/status/1944513790143537554) — only for us to show they were [lifted directly from his own phoneme classes](https://x.com/Ugrashravas/status/1944624284766552275).
+He began by complaining about the [phoneme groupings in our key](https://x.com/yajnadevam/status/1944513790143537554)—only for us to show they were [lifted directly from his own phoneme classes](https://x.com/Ugrashravas/status/1944624284766552275).
 
 
 He next criticized the grammar of our translations, [labeling correct usages as errors](https://x.com/yajnadevam/status/1944484554678608195) simply because he [didn’t recognize them](https://x.com/Ugrashravas/status/1944609918293610606). We highlighted his [lack of familiarity with Sanskrit](https://x.com/Ugrashravas/status/1944624299111010559) and pointed out that several of his nitpicks on orthography were [mirrored in his own scheme](https://x.com/Ugrashravas/status/1944624308208484776). For good measure, we also highlighted [fresh grammatical issues in his own decipherments](https://x.com/Ugrashravas/status/1944491443638374582).
@@ -202,12 +202,34 @@ Of course, we would soon show that all these words can be deciphered using Jeffe
 
 And with this, all doubts regarding the efficacy of Jefferson's key were cleared. Its omnipotence was now too obvious to ignore. Resistance was futile. Naturally, this led the emotional arc to stage two.
 
-
-
-***Coming Soon:***
-
 ## Chapter 2: Anger
 ***15-16 July 2025***
 
+
+
+Once the reality of the dream-revealed key had sunk in, the discourse turned... colorful.
+
+Yajnadevam, now firmly in the anger stage, responded by channeling ancient curses in UTF-8: unleashing the string
+["ञकथय्तफभैीय्ूथाख्वोस्ंॢपर्चटीपेिठचछलद्टग्ज्ड्खठृंफ्ह्ौकब्हतछढध्दधःभलस्लश्य्चढैीॢैथगज्श्ॢद्घििॄमुजल्ोीघ्ंीॄछङ्द्ःक्िॄशब्प्ल्घणष" *(sic)*](https://x.com/yajnadevam/status/1944839744275530217), perhaps hoping sheer "entropy" would destroy the key.
+
+Then came this gem:
+
+<div style="text-align: center;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ईर is meant to be ईर्ष्व? You could adjust it by making it &quot;thrower&quot; using अच् <br><br>Also यभ is totally different from यम ... I wouldn&#39;t dare mix it up with one of the deities.<br><br>Actual translation would be<br>&quot;O powerful f***er! In the waters fight O thrower. Emit(vama) down(ava) using… <a href="https://t.co/Ji7Ps2ntKQ">pic.twitter.com/Ji7Ps2ntKQ</a></p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1945174968503034317?ref_src=twsrc%5Etfw">July 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+<br>
+
+
+
+And then, this AI-generated masterpiece (still not sure why Jefferson is the janitor—audience suggestions welcome):
+
+<div style="text-align: center;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/Ugrashravas?ref_src=twsrc%5Etfw">@Ugrashravas</a> अमयभ site seems to be down ... thanks for your patience<br><br>Meanwhile...<br><br>When I pointed out that ALL LEGISLATIVE has LLL = एएए, our buddy quickly added य to the row. Indeed all vowels now come with a consonantal alternate and on top of the table is a = ā (alif),… <a href="https://t.co/kI4yAfpKyQ">https://t.co/kI4yAfpKyQ</a> <a href="https://t.co/pzJHNjdRxD">pic.twitter.com/pzJHNjdRxD</a></p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1945290944430907861?ref_src=twsrc%5Etfw">July 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+<br>
+
+***Coming Soon:***
+## Chapter 3: Bargaining
+***16-17 July 2025***
 
 ***To be continued...***
