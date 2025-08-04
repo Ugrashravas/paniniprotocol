@@ -42,6 +42,12 @@ The results looked exactly like his: ungrammatical Sanskrit, vague stems, and a 
 
 Thus began the **Pāṇini Protocol**: which would soon become a full-scale demonstration that any text, when tortured through his method, can yield "Sanskrit" that’s just as ungrammatical as his original. What follows is a surprisingly textbook progression through all five stages of grief, triggered by [Jefferson's Key](index.md#our-solution-to-the-challenge-jeffersons-key) working too well.
 
+
+<div style="text-align: center;">
+<img src="img/5stages.png" alt="Yajnadevam's challenge to dismiss issues with his method that were pointed out in private" title="Yajnadevam's challenge to dismiss issues with his method that were pointed out in private" width=100%>
+</div>
+<br>
+
 ## Chapter 1: Denial
 ### Initial Skepticism and Bewilderment
 ***08 July 2025***
@@ -142,5 +148,66 @@ Yet, our method turned out to be effective enough to [trigger a meltdown](https:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GPT had a better idea 😛 <a href="https://t.co/ENAg64lu3b">https://t.co/ENAg64lu3b</a> <a href="https://t.co/CmkVNstM1r">pic.twitter.com/CmkVNstM1r</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1943542389282329060?ref_src=twsrc%5Etfw">July 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
+
+### Final Stages of Confusion
+
+***13-14 July 2025***
+
+
+By now, Yajnadevam's followers had already [scored multiple self-goals](#initial-rebuttals-that-exposed-the-blueprint). It was only fitting that YD would follow suit.
+
+He began by complaining about the [phoneme groupings in our key](https://x.com/yajnadevam/status/1944513790143537554) — only for us to show they were [lifted directly from his own phoneme classes](https://x.com/Ugrashravas/status/1944624284766552275).
+
+
+He next criticized the grammar of our translations, [labeling correct usages as errors](https://x.com/yajnadevam/status/1944484554678608195) simply because he [didn’t recognize them](https://x.com/Ugrashravas/status/1944609918293610606). We highlighted his [lack of familiarity with Sanskrit](https://x.com/Ugrashravas/status/1944624299111010559) and pointed out that several of his nitpicks on orthography were [mirrored in his own scheme](https://x.com/Ugrashravas/status/1944624308208484776). For good measure, we also highlighted [fresh grammatical issues in his own decipherments](https://x.com/Ugrashravas/status/1944491443638374582).
+
+He then made a series of claims about orthography that were, to put it kindly, confused:
+
+- He said his decipherment matched the "$$2\times$$ phoneme-to-grapheme ratio of an abugida," which we [demonstrated was false](https://x.com/Ugrashravas/status/1944714139286606035)
+- His entire understanding of [what an abugida is turned out to be flawed](https://x.com/Ugrashravas/status/1944762349019447796)
+- He claimed that the vowel /a/ in Indic scripts is only optionally attached to full consonant signs; We showed [this is simply incorrect](https://x.com/Ugrashravas/status/1944773458933768546)
+
+
+He also claimed our key had a ["recursive sandhi" issue](https://x.com/yajnadevam/status/1944494629165912141). But this was because he [hadn’t read the decipherment properly](https://x.com/Ugrashravas/status/1944497451064283287).
+
+
+And when all of this was pointed out, he tried to fall back on "cultural references" in his own translations. Naturally, we too cherry-picked [cultural references in ours](https://x.com/Ugrashravas/status/1944646004545818783), exploiting the vastness of the Hindu corpus
+
+
+Finally, engaged in some [distilled wordcelling about unicity distance](https://x.com/Ugrashravas/status/1944624287639552001), throwing around [large numbers without clarifying anything of substance](https://x.com/yajnadevam/status/1944484554678608195). We responded [by throwing around larger numbers](https://x.com/Ugrashravas/status/1944491491348693368):
+
+<div style="text-align: center;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even if we consider 16 phonemes for आहनन आशस्-र आस, the number of plaintexts exceed 48^16 = 794071845499378503449051136.<br><br>However, sir has graciously accepted that the unicity distance with which he claimed correctness was incorrect, and fulfilled my prediction (below) <a href="https://t.co/VE2tFxgLFn">pic.twitter.com/VE2tFxgLFn</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1944491491348693368?ref_src=twsrc%5Etfw">July 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+<br>
+
+#### Denial Wears Thin
+
+
+But something was changing. The resistance began to crack. Yajnadevam was [starting to realize the key really worked](https://x.com/yajnadevam/status/1944772683813576790).
+
+Yet a small residue of disbelief remained. Reaching for the last straw, he [challenged us to decipher random, isolated English words](https://x.com/yajnadevam/status/1944792745627021785), without regard to whether they actually occur in the Constitution:
+
+<div style="text-align: center;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Areas for improvements. Instead of fixing these individually (they are in the hundreds), I suggest a systemic fix:<br><br>Short words (small in number, all can be checked):<br>SUN वुर<br>UP उङ <br><br>Words with double letters (hard):<br>KILL लनये<br>OCCUR इपपुय<br><br>Words causing consecutive vowels/nasal…</p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1944792745627021785?ref_src=twsrc%5Etfw">July 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+<br>
+
+Of course, we would soon show that all these words can be deciphered using Jefferson's Key:
+
+<div style="text-align: center;">
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">All these words are flawless Sanskrit per Jefferson&#39;s key!<br><br>Thanks to <a href="https://twitter.com/F24111998?ref_src=twsrc%5Etfw">@F24111998</a> ji for the precise decipherment :)<br><br>येन धौता गिरःपुंसां विमलैःशब्दविरिभिः<br>तमश्चाज्ञानजं भिन्नं तस्मै पाणिनये नमः<br>Obeisance to Pāṇini, who SHATTERED the darkness of ignorance with pure word-waters!🙏 <a href="https://t.co/T7lhtPcvf3">https://t.co/T7lhtPcvf3</a> <a href="https://t.co/LIZ3dV3Uv4">pic.twitter.com/LIZ3dV3Uv4</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1945515317964201999?ref_src=twsrc%5Etfw">July 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+<br>
+
+And with this, all doubts regarding the efficacy of Jefferson's key were cleared. Its omnipotence was now too obvious to ignore. Resistance was futile. Naturally, this led the emotional arc to stage two.
+
+
+
+***Coming Soon:***
+
+## Chapter 2: Anger
+***15-16 July 2025***
+
 
 ***To be continued...***
