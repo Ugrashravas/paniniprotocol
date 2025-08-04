@@ -3,6 +3,11 @@ title: Chronology
 nav_order: 5
 ---
 
+<!-- MathJax for rendering inline/block LaTeX -->
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # The Pāṇini Protocol: The Complete Saga from Challenge to Block
 
 This is the full account of the Pāṇini Protocol: a scholarly encounter that began in good faith, passed the fire of public challenge, and ended in evasive silence. It is a case study in how a **publicity-driven claim**, never meant to withstand academic scrutiny, folds when it meets formal critique.
@@ -160,7 +165,7 @@ Yet, our method turned out to be effective enough to [trigger a meltdown](https:
 ***13-14 July 2025***
 
 
-By now, Yajnadevam's followers had already [scored multiple self-goals](#initial-rebuttals-that-exposed-the-blueprint). It was only fitting that YD would follow suit.
+By now, Yajnadevam's followers had already [scored multiple self-goals](#1.4-initial-rebuttals-that-exposed-the-blueprint). It was only fitting that YD would follow suit.
 
 He began by complaining about the [phoneme groupings in our key](https://x.com/yajnadevam/status/1944513790143537554)—only for us to show they were [lifted directly from his own phoneme classes](https://x.com/Ugrashravas/status/1944624284766552275).
 
