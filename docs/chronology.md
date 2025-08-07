@@ -68,9 +68,10 @@ The initial reaction from Yajnadevam and his supporters was one of confusion and
 This produced some charming moments where a few in the audience simply forgot to scroll:
 
 <div style="text-align: center;">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/yajnadevam?ref_src=twsrc%5Etfw">@yajnadevam</a> gave a map for each symbol in IVC script to Devanagari. Where is that map from Roman 26 to 52 symbols from which the text can be deciphered ? Obviously that’s the key work not done. <a href="https://t.co/00zyat1dLL">https://t.co/00zyat1dLL</a></p>&mdash; INY (@inynor36) <a href="https://archive.ph/OrBrA">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/yajnadevam?ref_src=twsrc%5Etfw">@yajnadevam</a> gave a map for each symbol in IVC script to Devanagari. Where is that map from Roman 26 to 52 symbols from which the text can be deciphered ? Obviously that’s the key work not done. <a href="https://t.co/00zyat1dLL">https://t.co/00zyat1dLL</a></p>&mdash; INY (@inynor36) <a href="https://twitter.com/inynor36/status/1942477689530839047?ref_src=twsrc%5Etfw">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
+<!-- https://archive.ph/OrBrA -->
 
 While others remained in incredulity, firmly believing that the key’s success was a fluke:
 
@@ -78,8 +79,9 @@ While others remained in incredulity, firmly believing that the key’s success 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reverse translate the Jefferson papers<br><br>They&#39;re from the same era. Let&#39;s see if you can preserve your junk assignment.<br><br>You should be able to read it with your assignment from the Constitution <a href="https://t.co/YvoY3qiSbG">https://t.co/YvoY3qiSbG</a></p>&mdash; Nana Siddharth (@NanaSiddharth) <a href="https://twitter.com/NanaSiddharth/status/1942551064793997600?ref_src=twsrc%5Etfw">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <br>
+<!-- https://archive.ph/p58a5 -->
 
-To quell [such doubts](https://x.com/NanaSiddharth/status/1942550539075739675) about the efficiacy of Jefferson's Key, we used it to produce translations not only of [the critic's own tweet](https://x.com/Ugrashravas/status/1942565655590625370), but also of Twitter brainrot:
+To quell [such doubts](https://archive.ph/BzpiI) about the efficiacy of Jefferson's Key, we used it to produce translations not only of [the critic's own tweet](https://x.com/Ugrashravas/status/1942565655590625370), but also of Twitter brainrot:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Turns out to be a Dravidian spy for the Aryans concerned that the Aryans didn&#39;t show up at dawn to invade his IVC fort <a href="https://t.co/z3mNR9Ujow">pic.twitter.com/z3mNR9Ujow</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1942632943312146555?ref_src=twsrc%5Etfw">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -89,19 +91,20 @@ To quell [such doubts](https://x.com/NanaSiddharth/status/1942550539075739675) a
 ### 1.2 Early Foreshadowing
 ***08 July 2025***
 
-Yajnadevam himself, was apparently [on vacation](https://x.com/yajnadevam/status/1942969902287175990) and had [not read my decipherment yet](https://x.com/yajnadevam/status/1942958381238796782). Nevertheless, he quickly surfaced to confidently announce that my unicity distance was wrong:
+Yajnadevam himself, was apparently [on vacation](https://x.com/yajnadevam/status/1942969902287175990)<!-- https://archive.ph/VnYvT --> and had [not read my decipherment yet](https://x.com/yajnadevam/status/1942958381238796782)<!--https://archive.ph/m6CWD-->. Nevertheless, he quickly surfaced to confidently announce that my unicity distance was wrong:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your unicity distance is incorrect… first of all, you neglect the fact that most of these text is in lower case and your brahmi mapping also works only for upper case. Secondly you are mapping LL to A which means your cipher is no longer just homophonic. Needs recomputation.</p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1942601168427126867?ref_src=twsrc%5Etfw">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
+<!-- https://archive.ph/jMDaJ -->
 
-The lowercase complaint was a complete red herring. The ciphertext under consideration was [entirely uppercase](https://x.com/Ugrashravas/status/1942603213213163534) to begin with (in scriptio continua too, like the Indus seals), making the objection moot. The "LL to A" point was (apart from being flatly false) equally hollow, given his own decipherment tolerates far [sloppier symbol clustering](https://x.com/Ugrashravas/status/1942603919034589495). In hindsight, this irrelevant objection, and a [misrepresentation of my position as "a challenge to information theory"](https://x.com/yajnadevam/status/1942610250433191961) foreshadowed [the wave of goalpost-shifting](dancing-goalposts.md) that would soon follow.
+The lowercase complaint was a complete red herring. The ciphertext under consideration was [entirely uppercase](https://x.com/Ugrashravas/status/1942603213213163534) to begin with (in scriptio continua too, like the Indus seals), making the objection moot. The "LL to A" point was (apart from being flatly false) equally hollow, given his own decipherment tolerates far [sloppier symbol clustering](https://x.com/Ugrashravas/status/1942603919034589495). In hindsight, this irrelevant objection, and a [misrepresentation of my position as "a challenge to information theory"](https://x.com/yajnadevam/status/1942610250433191961)<!--https://archive.ph/70CYK--> foreshadowed [the wave of goalpost-shifting](dancing-goalposts.md) that would soon follow.
 
 ### 1.3 Still Unconvinced?! Sigh...
 ***10 July 2025***
 
-While Yajnadevam was still on vacation and hadn’t yet read the decipherment, his [followers remained unconvinced](https://x.com/inynor36/status/1942931336819540440). They couldn’t bring themselves to believe that my key was [actually revealed in a dream](https://x.com/Ugrashravas/status/1942935760207770091) and hence magical—perhaps imagining that I had brute-forced some "algorithm" on a "dataset" or whatever else made it easier to sleep at night. At first, we were responding to these doubts individually:
+While Yajnadevam was still on vacation and hadn’t yet read the decipherment, his [followers remained unconvinced](https://x.com/inynor36/status/1942931336819540440)<!--https://archive.ph/kPibq-->. They couldn’t bring themselves to believe that my key was [actually revealed in a dream](https://x.com/Ugrashravas/status/1942935760207770091) and hence magical—perhaps imagining that I had brute-forced some "algorithm" on a "dataset" or whatever else made it easier to sleep at night. At first, we were responding to these doubts individually:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">These words are about Aśvamedha ritual &amp; metrical intricacies of Ṛgveda <a href="https://t.co/tO61IE3Mdt">pic.twitter.com/tO61IE3Mdt</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1943152902245056722?ref_src=twsrc%5Etfw">July 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -120,22 +123,25 @@ But soon, this became tedious and frankly, beneath us. So we went straight for t
 
 Two days after the decipherment, the responses began to shift from knee-jerk dismissal to actual engagement. But most critiques ended up questioning assumptions that were straight out of Yajnadevam’s own method—effectively dismantling the very thesis they were trying to defend.
 
-For example, Yajnadevam claimed that my unicity distance was "[much larger than the constitution, perhaps much much larger](https://x.com/yajnadevam/status/1942967993727685117)", without providing a number or even a formula. Ironically, I had computed the unicity distance [using the same method in his draft](https://x.com/Ugrashravas/status/1942958003860435445), making the objection an inadvertent admission that his formula was flawed. He would later concede this in opaque terms:
+For example, Yajnadevam claimed that my unicity distance was "[much larger than the constitution, perhaps much much larger](https://x.com/yajnadevam/status/1942967993727685117)<!--https://archive.ph/RLfFD-->", without providing a number or even a formula. Ironically, I had computed the unicity distance [using the same method in his draft](https://x.com/Ugrashravas/status/1942958003860435445), making the objection an inadvertent admission that his formula was flawed. He would later concede this in opaque terms:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My understanding of how to compute the UD has improved recently. I will post a comprehensive calculation soon. <a href="https://t.co/Tym0ZhcQhM">https://t.co/Tym0ZhcQhM</a></p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1944871511636238390?ref_src=twsrc%5Etfw">July 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
+<!-- https://archive.ph/nEx89 -->
 
 
-Still unwilling to accept that Jefferson’s Key had actually worked, Yajnadevam tried to move the goalpost by demanding that my method work for [any Latin alphabet text](https://x.com/yajnadevam/status/1942957670098489719). Meanwhile, some of his followers began innovating novel approaches to deflect from the results, like questioning the [*entropy* of the translations](https://x.com/NanaSiddharth/status/1943356218275193150) and demanding [Sanskrit be reverse-translated with my key](https://x.com/SaintShitposter/status/1942864243138978049), while others admitted to [lacking technical competence in arithmetic](https://x.com/ImperiumHindu/status/1942896544795201765):
+Still unwilling to accept that Jefferson’s Key had actually worked, Yajnadevam tried to move the goalpost by demanding that my method work for [any Latin alphabet text](https://x.com/yajnadevam/status/1942957670098489719)<!--https://archive.ph/qMxbe-->. Meanwhile, some of his followers began innovating novel approaches to deflect from the results, like questioning the [*entropy* of the translations](https://x.com/NanaSiddharth/status/1943356218275193150)<!--https://archive.ph/5jQOE--> and demanding [Sanskrit be reverse-translated with my key](https://x.com/SaintShitposter/status/1942864243138978049)<!--https://archive.ph/IOvrn-->, while others admitted to [lacking technical competence in arithmetic](https://x.com/ImperiumHindu/status/1942896544795201765)<!--https://archive.ph/9uuRq-->:
 
 <div style="text-align: center;">
-  <img src="img/division.png" alt="division error tweet" width="400">
+  <a href="https://archive.ph/9uuRq">
+    <img src="img/division.png" alt="division error tweet" width="400">
+  </a>
 </div>
 <br>
 
-In parallel, some began pointing out what they saw as glaring flaws: the key had [ambiguous phoneme classes](https://x.com/Ugrashravas/status/1942906579504001422), many-to-many mappings ([[1]](https://x.com/NanaSiddharth/status/1942945437645738164),[[2]](https://x.com/Ugrashravas/status/1942952899409072150),[[3]](https://x.com/SaintShitposter/status/1943356943525171274)), and other such horrors. Unfortunately for them, these were faithful imitations of Yajnadevam's method. In trying to critique our work, they accidentally spotlighted the nonsensical mechanics of his entire system:
+In parallel, some began pointing out what they saw as glaring flaws: the key had [ambiguous phoneme classes](https://x.com/Ugrashravas/status/1942906579504001422), many-to-many mappings ([[1]](https://x.com/NanaSiddharth/status/1942945437645738164)<!--https://archive.ph/ApGpD-->,[[2]](https://x.com/Ugrashravas/status/1942952899409072150),[[3]](https://x.com/SaintShitposter/status/1943356943525171274)<!--https://archive.ph/oDGdE-->), and other such horrors. Unfortunately for them, these were faithful imitations of Yajnadevam's method. In trying to critique our work, they accidentally spotlighted the nonsensical mechanics of his entire system:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵<br><br>Criticisms of my [divinely inspired] decipherment that actually end up exposing nonsensical &amp; convenient assumptions in YD sir&#39;s [human, fallible] decipherment that were never questioned by YD fans<br><br>I again urge YD fans to read their own website first:<a href="https://t.co/4DubJLmDZ2">https://t.co/4DubJLmDZ2</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1943199045054234900?ref_src=twsrc%5Etfw">July 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -151,10 +157,11 @@ At this point, rather than admit the demonstration succeeded, Yajnadevam launche
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Challenges to my decipherment are like video game levels. The lowest level/tutorial level are people who mostly do emotional ranting and point out that my work doesn’t agree with those before me. Little to no domain knowledge. Like the people on quora and Reddit. The exemplar of… <a href="https://t.co/e2Iy092yUB">https://t.co/e2Iy092yUB</a></p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1943342961363947929?ref_src=twsrc%5Etfw">July 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
+<!-- https://archive.ph/3aZQ4 -->
 
 Apparently, I had become the final boss who had challenged information theory itself. In truth, all I did was point out what any honest student of Sanskrit and mathematics could have. This refutation was the casual work of a bored student over a weekend, not some grand academic takedown.
 
-Yet, our method turned out to be effective enough to [trigger a meltdown](https://x.com/search?q=from%3Ayajnadevam%20or%20from%3Athebutterthief%20or%20from%3Ananasiddharth%20or%20from%3Asaintshitposter%20ugrashravas&src=typed_query&f=top). And who doesn’t enjoy a bit of drama? Naturally, we grabbed the opportunity, and that’s how the Pāṇini Protocol was born:
+Yet, our method turned out to be effective enough to [trigger a meltdown](https://x.com/search?q=from%3Ayajnadevam%20or%20from%3Athebutterthief%20or%20from%3Ananasiddharth%20or%20from%3Asaintshitposter%20ugrashravas%20until%3A2025-07-17%20since%3A2025-07-07&src=typed_query&f=top)<!--https://archive.ph/1coad-->. And who doesn’t enjoy a bit of drama? Naturally, we grabbed the opportunity, and that’s how the Pāṇini Protocol was born:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GPT had a better idea 😛 <a href="https://t.co/ENAg64lu3b">https://t.co/ENAg64lu3b</a> <a href="https://t.co/CmkVNstM1r">pic.twitter.com/CmkVNstM1r</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1943542389282329060?ref_src=twsrc%5Etfw">July 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -167,10 +174,10 @@ Yet, our method turned out to be effective enough to [trigger a meltdown](https:
 
 By now, Yajnadevam's followers had already [scored multiple self-goals](#1.4-initial-rebuttals-that-exposed-the-blueprint). It was only fitting that YD would follow suit.
 
-He began by complaining about the [phoneme groupings in our key](https://x.com/yajnadevam/status/1944513790143537554)—only for us to show they were [lifted directly from his own phoneme classes](https://x.com/Ugrashravas/status/1944624284766552275).
+He began by complaining about the [phoneme groupings in our key](https://x.com/yajnadevam/status/1944513790143537554)<!--https://archive.ph/okW9i-->—only for us to show they were [lifted directly from his own phoneme classes](https://x.com/Ugrashravas/status/1944624284766552275).
 
 
-He next criticized the grammar of our translations, [labeling correct usages as errors](https://x.com/yajnadevam/status/1944484554678608195) simply because he [didn’t recognize them](https://x.com/Ugrashravas/status/1944609918293610606). We highlighted his [lack of familiarity with Sanskrit](https://x.com/Ugrashravas/status/1944624299111010559) and pointed out that several of his nitpicks on orthography were [mirrored in his own scheme](https://x.com/Ugrashravas/status/1944624308208484776). For good measure, we also highlighted [fresh grammatical issues in his own decipherments](https://x.com/Ugrashravas/status/1944491443638374582).
+He next criticized the grammar of our translations, [labeling correct usages as errors](https://x.com/yajnadevam/status/1944484554678608195)<!--https://archive.ph/P3Bz2--> simply because he [didn’t recognize them](https://x.com/Ugrashravas/status/1944609918293610606). We highlighted his [lack of familiarity with Sanskrit](https://x.com/Ugrashravas/status/1944624299111010559) and pointed out that several of his nitpicks on orthography were [mirrored in his own scheme](https://x.com/Ugrashravas/status/1944624308208484776). For good measure, we also highlighted [fresh grammatical issues in his own decipherments](https://x.com/Ugrashravas/status/1944491443638374582).
 
 He then made a series of claims about orthography that were, to put it kindly, confused:
 
@@ -179,13 +186,13 @@ He then made a series of claims about orthography that were, to put it kindly, c
 - He claimed that the vowel /a/ in Indic scripts is only optionally attached to full consonant signs; We showed [this is simply incorrect](https://x.com/Ugrashravas/status/1944773458933768546)
 
 
-He also claimed our key had a ["recursive sandhi" issue](https://x.com/yajnadevam/status/1944494629165912141). But this was because he [hadn’t read the decipherment properly](https://x.com/Ugrashravas/status/1944497451064283287).
+He also claimed our key had a ["recursive sandhi" issue](https://x.com/yajnadevam/status/1944494629165912141)<!--https://archive.ph/ysQbS-->. But this was because he [hadn’t read the decipherment properly](https://x.com/Ugrashravas/status/1944497451064283287).
 
 
 And when all of this was pointed out, he tried to fall back on "cultural references" in his own translations. Naturally, we too cherry-picked [cultural references in ours](https://x.com/Ugrashravas/status/1944646004545818783), exploiting the vastness of the Hindu corpus
 
 
-Finally, engaged in some [distilled wordcelling about unicity distance](https://x.com/Ugrashravas/status/1944624287639552001), throwing around [large numbers without clarifying anything of substance](https://x.com/yajnadevam/status/1944484554678608195). We responded [by throwing around larger numbers](https://x.com/Ugrashravas/status/1944491491348693368):
+Finally, he engaged in some [distilled wordcelling about unicity distance](https://x.com/Ugrashravas/status/1944624287639552001), throwing around [large numbers without clarifying anything of substance](https://x.com/yajnadevam/status/1944484554678608195)<!--https://archive.ph/P3Bz2-->. We responded [by throwing around even larger numbers](https://x.com/Ugrashravas/status/1944491491348693368):
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even if we consider 16 phonemes for आहनन आशस्-र आस, the number of plaintexts exceed 48^16 = 794071845499378503449051136.<br><br>However, sir has graciously accepted that the unicity distance with which he claimed correctness was incorrect, and fulfilled my prediction (below) <a href="https://t.co/VE2tFxgLFn">pic.twitter.com/VE2tFxgLFn</a></p>&mdash; उ॒ग्रश्र॑वस् (@Ugrashravas) <a href="https://twitter.com/Ugrashravas/status/1944491491348693368?ref_src=twsrc%5Etfw">July 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -195,14 +202,15 @@ Finally, engaged in some [distilled wordcelling about unicity distance](https://
 #### Denial Wears Thin
 
 
-But something was changing. The resistance began to crack. Yajnadevam was [starting to realize the key really worked](https://x.com/yajnadevam/status/1944772683813576790).
+But something was changing. The resistance began to crack. Yajnadevam was [starting to realize the key really worked](https://x.com/yajnadevam/status/1944772683813576790)<!--https://archive.ph/Sz8tp-->.
 
-Yet a small residue of disbelief remained. Reaching for the last straw, he [challenged us to decipher random, isolated English words](https://x.com/yajnadevam/status/1944792745627021785), without regard to whether they actually occur in the Constitution:
+Yet a small residue of disbelief remained. Reaching for the last straw, he [challenged us to decipher random, isolated English words](https://x.com/yajnadevam/status/1944792745627021785)<!--https://archive.ph/kiMT9-->, without regard to whether they actually occur in the Constitution:
 
 <div style="text-align: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Areas for improvements. Instead of fixing these individually (they are in the hundreds), I suggest a systemic fix:<br><br>Short words (small in number, all can be checked):<br>SUN वुर<br>UP उङ <br><br>Words with double letters (hard):<br>KILL लनये<br>OCCUR इपपुय<br><br>Words causing consecutive vowels/nasal…</p>&mdash; yajnadevam (@yajnadevam) <a href="https://twitter.com/yajnadevam/status/1944792745627021785?ref_src=twsrc%5Etfw">July 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
+<!-- https://archive.ph/L1rkT -->
 
 Of course, we would soon show that all these words can be deciphered using Jefferson's Key:
 
