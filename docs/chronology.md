@@ -54,7 +54,7 @@ Thus began the **Pāṇini Protocol**: which would soon become a full-scale demo
 
 
 <div style="text-align: center;">
-<img src="img/5stages.png" alt="Kuebler Ross Model: 5 Stages of Grief" title="Kuebler Ross Model: 5 Stages of Grief" width=100%>
+<img src="img/5stages.png" alt="Kuebler Ross Model: 5 Stages of Grief" title="Kuebler Ross Model: 5 Stages of Grief">
 </div>
 <br>
 
