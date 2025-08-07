@@ -68,7 +68,7 @@ The initial reaction from Yajnadevam and his supporters was one of confusion and
 This produced some charming moments where a few in the audience simply forgot to scroll:
 
 <div style="text-align: center;">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/yajnadevam?ref_src=twsrc%5Etfw">@yajnadevam</a> gave a map for each symbol in IVC script to Devanagari. Where is that map from Roman 26 to 52 symbols from which the text can be deciphered ? Obviously that’s the key work not done. <a href="https://t.co/00zyat1dLL">https://t.co/00zyat1dLL</a></p>&mdash; INY (@inynor36) <a href="https://twitter.com/inynor36/status/1942477689530839047?ref_src=twsrc%5Etfw">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/yajnadevam?ref_src=twsrc%5Etfw">@yajnadevam</a> gave a map for each symbol in IVC script to Devanagari. Where is that map from Roman 26 to 52 symbols from which the text can be deciphered ? Obviously that’s the key work not done. <a href="https://t.co/00zyat1dLL">https://t.co/00zyat1dLL</a></p>&mdash; INY (@inynor36) <a href="https://archive.ph/OrBrA">July 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 <br>
 
