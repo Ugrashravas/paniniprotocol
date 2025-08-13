@@ -12,6 +12,11 @@ nav_order: 5
 
 This is the full account of the Pāṇini Protocol: a scholarly encounter that began in good faith, passed the fire of public challenge, and ended in evasive silence. It is a case study in how a **publicity-driven claim**, never meant to withstand academic scrutiny, folds when it meets formal critique.
 
+<div style="text-align: center;">
+<img src="img/MythicBattle.png" alt="Mythic Battle between Ugra and YD" title="Mythic Battle between Ugra and YD">
+</div>
+<br>
+
 ## Prologue: "Perhaps This Is All A Misunderstanding"
 ***December 2024 - February 2025***
 
